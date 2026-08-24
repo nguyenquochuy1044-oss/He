@@ -1,5 +1,3 @@
--- This file was deobfuscated & cleaned using SigmaBot | .gg/Zame2JAGDr
-
 local Env = getfenv();
 local E = {};
 local value_1 = {...};
@@ -240,9 +238,9 @@ if variable_1 then
         };
         Vs[13] = 26873402061025;
         variable_28 = {
-            ["Dimension"] = 100,
-            ["Chaotic"] = 30,
-            ["Aurora"] = 30
+            ["Dimension"] = 3,
+            ["Chaotic"] = 3,
+            ["Aurora"] = 3
         };
         variable_29 = "SELECT...";
         variable_30 = Instance.new("ScreenGui");
