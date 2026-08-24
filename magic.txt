@@ -1,0 +1,3125 @@
+-- This file was deobfuscated & cleaned using SigmaBot | .gg/Zame2JAGDr
+
+local Env = getfenv();
+local E = {};
+local value_1 = {...};
+local variable_1 = true;
+local variable_2 = string.gmatch;
+local function variable_3(...)
+    error("Tamper Detected!");
+    return; 
+end;
+local variable_4 = false;
+local value_2 = pcall(function(...)
+    variable_4 = true;
+    return; 
+end);
+local value_3 = value_2;
+if value_2 then
+    value_3 = variable_4;
+end;
+local value_4 = 1;
+local variable_5 = math.random;
+local value_5 = table.concat;
+local function value_6(...)
+    while true do
+        local_1 = local_2;
+        local_2 = local_1;
+        variable_3(); 
+    end;
+    return; 
+end;
+local variable_6 = table and table.unpack or unpack;
+local variable_7 = variable_5(3, 65);
+local value_7 = {
+    pcall(function(...)
+        return "q4FUw0w9" / (12255655 - "ZynP5go" ^ 6460490); 
+    end)
+};
+local value_8 = value_7[2];
+local value_9 = tonumber;
+local variable_8 = value_9(variable_2(tostring(value_8), ":(%d*):")());
+for k = 1, variable_7 do
+    variable_9 = k;
+    variable_10 = math.random(1, 100);
+    variable_11 = variable_5(0, 255);
+    variable_12 = variable_5(1, variable_10);
+    variable_13 = variable_5(1, 2) == 1;
+    variable_14 = value_8.gsub(value_8, ":(%d*):", ":" .. tostring(variable_5(0, 10000)) .. ":");
+    z = {
+        pcall(function(...)
+            if variable_5(1, 2) == 1 or variable_9 == variable_7 then
+                variable_1 = variable_1 and variable_8 == tonumber(variable_2(tostring(({
+                    pcall(function(...)
+                        return "Dnn1qig" / (8122119 - "EK8" ^ 1719402); 
+                    end)
+                })[2]), ":(%d*):")());
+            end;
+            if variable_13 then
+                error(variable_14, 0);
+            end;
+            value_1 = {};
+            for t = 1, variable_10 do
+                value_1[t] = variable_5(0, 255); 
+            end;
+            value_1[variable_12] = variable_11;
+            return variable_6(value_1); 
+        end)
+    };
+    value_9 = variable_13;
+    if value_9 then
+        variable_1 = variable_1 and value_9;
+    end; 
+end;
+variable_1 = variable_1 and 0 == 0;
+if variable_1 then
+    value_7 = {};
+    variable_17 = math.floor;
+    variable_18 = 0;
+    variable_19 = 2;
+    variable_20 = {};
+    B = 0;
+    for T = 1, 256 do
+        value_7[T] = T; 
+    end;
+    value_8 = #value_7 == 0;
+    T = table.remove(value_7, math.random(1, #value_7));
+    variable_20[T] = string.char(T - 1);
+    if #value_7 == 0 then
+        variable_21 = {};
+        variable_23 = {};
+        Vs[5] = 4450127218712;
+        variable_16 = setmetatable({}, {
+            ["__index"] = variable_23,
+            ["__metatable"] = nil
+        });
+        value_4 = game;
+        variable_24 = loadstring(value_4.HttpGet(value_4, "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))();
+        t = variable_24;
+        Vs[12] = 5762991622779;
+        value_4 = t.CreateWindow(t, {
+            ["Title"] = "Cat Hub",
+            ["Icon"] = "lucide:cat",
+            ["Author"] = "By Miee",
+            ["HideSearchBar"] = false,
+            ["Transparent"] = true,
+            ["Theme"] = "Dark",
+            ["BackgroundImageTransparency"] = .42,
+            ["User"] = {
+                ["Enabled"] = true,
+                ["Anonymous"] = false
+            }
+        });
+        Vs[32] = 19588905411489;
+        Vs[23] = 27684160598619;
+        value_4.EditOpenButton(value_4, {
+            ["Title"] = "Cat Hub",
+            ["Icon"] = "lucide:cat",
+            ["CornerRadius"] = UDim.new(0, 16),
+            ["StrokeThickness"] = 2,
+            ["Color"] = ColorSequence.new(Color3.fromHex("29b3f8"), Color3.fromHex("29c1f8")),
+            ["OnlyMobile"] = false,
+            ["Enabled"] = true,
+            ["Draggable"] = true
+        });
+        value_4.Tag(value_4, {
+            ["Title"] = "V1",
+            ["Icon"] = "lucide:square-terminal",
+            ["Color"] = Color3.fromHex("#005F99"),
+            ["Border"] = true
+        });
+        value_4.Tag(value_4, {
+            ["Title"] = "Elemental Magic Arena",
+            ["Icon"] = "lucide:paw-print",
+            ["Color"] = Color3.fromHex("#A7C7E7"),
+            ["Border"] = true
+        });
+        t = variable_24;
+        Vs[8] = 9055152558200;
+        t.AddTheme(t, {
+            ["Name"] = "Test",
+            ["Accent"] = Color3.fromHex("#18181b"),
+            ["Background"] = Color3.fromHex("#101010"),
+            ["Outline"] = Color3.fromHex("#FFFFFF"),
+            ["Text"] = Color3.fromHex("#FFFFFF"),
+            ["Placeholder"] = Color3.fromHex("#7a7a7a"),
+            ["Button"] = Color3.fromHex("#52525b"),
+            ["Icon"] = Color3.fromHex("#a1a1aa")
+        });
+        Color3.fromHex("#7775F2");
+        Color3.fromHex("#ECA201");
+        I = Color3.fromHex("#83889E");
+        Color3.fromHex("#257AF7");
+        Color3.fromHex("#EF4F1D");
+        Color3.fromHex("#0f172a");
+        Color3.fromHex("#a955f7");
+        Color3.fromHex("8B5CF6");
+        Color3.fromHex("3B82F6");
+        Color3.fromHex("#1e293b");
+        t = game;
+        t.GetService(t, "Players");
+        t = game;
+        t.GetService(t, "RunService");
+        value_4.Divider(value_4);
+        t = value_4.Tab(value_4, {
+            ["Title"] = "Update Logs",
+            ["Icon"] = "lucide:file-text",
+            ["IconColor"] = I,
+            ["IconShape"] = "Square",
+            ["Border"] = true
+        });
+        t.Paragraph(t, {
+            ["Title"] = "Update Logs",
+            ["Icon"] = "lucide:file-text",
+            ["IconAlign"] = "Left",
+            ["Desc"] = "26.1.2026\n\n[+] Added awakening button without energy \n[+] Added Auto Lava Crater \n[+] Added Starlight Attack \n[+] Added Light Ball Attack \n[+] Added Caya Attack From The Sky \n[+] Added Auto Phoenix Strike \n[+] Added to spawn as many stones as possible for Element Space\n[+] Added Auto Charge and Release Charge Features for Element Destruction \n[+] Added Aimbot Skill Feature for Element ForceField and Destruction \n[+] Added Tab Player \n[+] Added Speed hack \n[+] Added Hitbox Player"
+        });
+        Vs[30] = 18510983750059;
+        z = value_4.Tab(value_4, {
+            ["Title"] = "Info",
+            ["Icon"] = "solar:info-square-bold",
+            ["IconColor"] = I,
+            ["IconShape"] = "Square",
+            ["Border"] = true
+        });
+        z.Paragraph(z, {
+            ["Title"] = "Read carefully",
+            ["Icon"] = "lucide:shield-alert",
+            ["IconAlign"] = "Left",
+            ["Desc"] = "Use this script wisely and take responsibility if you get banned from the map or your account gets banned."
+        });
+        value_4.Divider(value_4);
+        local function Ps(arg1_2, arg2_2, arg3_2, arg4_2, ...)
+            value_1 = arg1_2;
+            i = Instance.new("ScreenGui");
+            i.Name = value_1 .. "Gui";
+            i.ResetOnSpawn = false;
+            value_4 = Instance.new("TextButton");
+            value_4.Parent = i;
+            value_3 = arg2_2;
+            value_4.BackgroundColor3 = value_3;
+            value_4.Position = UDim2.new(0.5, -70, arg3_2, 0);
+            value_4.Size = UDim2.new(0, 140, 0, 40);
+            value_4.Font = Enum.Font.SourceSansBold;
+            value_4.Text = value_1.upper(value_1);
+            value_4.TextColor3 = Color3.fromRGB(255, 255, 255);
+            value_4.TextSize = 14;
+            value_4.Draggable = true;
+            value_2 = Instance.new("UICorner");
+            value_2.CornerRadius = UDim.new(0, 8);
+            value_2.Parent = value_4;
+            value_9 = value_4.MouseButton1Click;
+            value_9.Connect(value_9, arg4_2);
+            return i; 
+        end;
+        Vs[26] = 34018360540641;
+        v = value_4.Tab(value_4, {
+            ["Title"] = "MOD",
+            ["Icon"] = "lucide:skull",
+            ["IconColor"] = Color3.fromHex("#dc2626"),
+            ["IconShape"] = "Square",
+            ["Border"] = true
+        });
+        Vs[35] = 20273936655584;
+        Vs[7] = "\xe1\xe5\x1b\x01\xbf8\x07";
+        w = v.Section(v, {
+            ["Title"] = "AWAKENING",
+            ["Icon"] = "lucide:atom",
+            ["Box"] = true,
+            ["Opened"] = false
+        });
+        X = game;
+        h = X.GetService(X, "CoreGui");
+        X = game;
+        variable_25 = X.GetService(X, "Players");
+        variable_26 = variable_25.LocalPlayer;
+        variable_27 = {
+            ["Dimension"] = 0,
+            ["Chaotic"] = 0,
+            ["Aurora"] = 0
+        };
+        Vs[13] = 26873402061025;
+        variable_28 = {
+            ["Dimension"] = 100,
+            ["Chaotic"] = 30,
+            ["Aurora"] = 30
+        };
+        variable_29 = "SELECT...";
+        variable_30 = Instance.new("ScreenGui");
+        Vs[34] = "{\x1b\x1b\xcb\xd1:\x14\xa9";
+        variable_31 = Instance.new("TextButton");
+        eV = h;
+        variable_30.Parent = eV;
+        variable_30.ZIndexBehavior = Enum.ZIndexBehavior.Sibling;
+        variable_30.Enabled = false;
+        variable_31.Parent = variable_30;
+        variable_31.BackgroundColor3 = Color3.fromRGB(40, 40, 40);
+        variable_31.Position = UDim2.new(0.5, -50, .1, 0);
+        variable_31.Size = UDim2.new(0, 100, 0, 40);
+        variable_31.Font = Enum.Font.SourceSansBold;
+        variable_31.Text = "AWAKENING";
+        variable_31.TextColor3 = Color3.fromRGB(255, 255, 255);
+        variable_31.TextSize = 14;
+        variable_31.Draggable = true;
+        local function variable_32(...)
+            variable_31.BackgroundColor3 = Color3.fromRGB(200, 0, 0);
+            task.wait(.3);
+            variable_31.BackgroundColor3 = Color3.fromRGB(40, 40, 40);
+            return; 
+        end;
+        task.spawn(function(...)
+            while true do
+                value_9 = variable_29 ~= "SELECT...";
+                if value_9 then
+                    value_9 = tick;
+                    V = value_9() - (variable_27[variable_29] or 0);
+                    value_9 = value_9() - (variable_27[variable_29] or 0);
+                    t = value_9;
+                    t = variable_28[variable_29] or 0;
+                    if value_9 < t then
+                        variable_31.Text = tostring(math.ceil(t - value_9)) .. "s";
+                    else
+                        variable_31.Text = "AWAKENING";
+                    end;
+                else
+                    variable_31.Text = "AWAKENING";
+                end;
+                task.wait(.1); 
+            end;
+            return; 
+        end);
+        DV = variable_31.MouseButton1Click;
+        DV.Connect(DV, function(...)
+            if variable_29 == "SELECT..." then
+                return;
+            end;
+            value_9 = tick;
+            value_9 = value_9() - (variable_27[variable_29] or 0);
+            t = value_9;
+            if value_9 < (variable_28[variable_29] or 0) then
+                task.spawn(variable_32);
+                return;
+            end;
+            i = "Dimension";
+            if variable_29 == i then
+                variable_27.Dimension = tick();
+                i = game;
+                value_3 = i.GetService(i, "Players").LocalPlayer;
+                i = value_3.WaitForChild(value_3, "Backpack");
+                value_3 = i.WaitForChild(i, "Pocket Dimension");
+                i = value_3.WaitForChild(value_3, "RemoteEvent");
+                i.FireServer(i, unpack({
+                    "ActivateBlackHole"
+                }));
+            else
+                r = variable_29;
+                if r == "Chaotic" then
+                    variable_27.Chaotic = tick();
+                    r = game;
+                    r = r.GetService(r, "Players").LocalPlayer;
+                    i = value_1 - (variable_27[variable_29] or 0);
+                    N = variable_15;
+                    value_4 = r.Character;
+                    value_3 = value_4;
+                    if value_4 then
+                        value_9 = value_9;
+                        value_2 = value_4.WaitForChild(value_4, "HumanoidRootPart").Position;
+                        value_3 = value_4.WaitForChild(value_4, "Chaotic Beam");
+                        N = value_3.WaitForChild(value_3, "FireCero");
+                        N.FireServer(N, unpack({
+                            value_2,
+                            value_2
+                        }));
+                        return;
+                    else
+                        value_4 = r.CharacterAdded;
+                        value_3 = value_4.Wait(value_4);
+                    end;
+                else
+                    value_3 = variable_29 == "Aurora";
+                    if value_3 then
+                        variable_27.Aurora = tick();
+                        value_4 = game;
+                        value_3 = value_4.GetService(value_4, "Players").LocalPlayer.Character;
+                        i = value_3.WaitForChild(value_3, "Aurora Sword");
+                        value_3 = i.WaitForChild(i, "Event");
+                        value_3.FireServer(value_3, unpack({
+                            Enum.KeyCode.v7
+                        }));
+                    end;
+                end;
+            end; 
+        end);
+        w.Section(w, {
+            ["Title"] = "Awakening Element",
+            ["Icon"] = "lucide:atom",
+            ["IconAlign"] = "Left"
+        });
+        w.Divider(w);
+        w.Paragraph(w, {
+            ["Title"] = "Read carefully",
+            ["Icon"] = "lucide:shield-alert",
+            ["IconAlign"] = "Left",
+            ["Desc"] = "I put a cooldown on awakening because this feature is so OP, I feel sorry for the dev who made this game."
+        });
+        w.Divider(w);
+        w.Dropdown(w, {
+            ["Title"] = "Pilih Output",
+            ["Values"] = {
+                "Dimension",
+                "Chaotic",
+                "Aurora"
+            },
+            ["Value"] = "SELECT...",
+            ["Callback"] = function(arg1_3, ...)
+                value_1 = arg1_3;
+                variable_29 = value_1;
+                print("Dropdown diubah ke: " .. v1);
+                return; 
+            end
+        });
+        w.Toggle(w, {
+            ["Title"] = "Awakening Button",
+            ["Desc"] = "Bring up the button for awakening without energy",
+            ["Icon"] = "lucide:atom",
+            ["Value"] = false,
+            ["Callback"] = function(arg1_4, ...)
+                variable_30.Enabled = arg1_4;
+                return; 
+            end
+        });
+        v.Divider(v);
+        DV = v.Section(v, {
+            ["Title"] = "WhiteList Element Skill",
+            ["Icon"] = "lucide:settings",
+            ["Box"] = true,
+            ["Opened"] = false
+        });
+        Vs[33] = 29131354502397;
+        DV.Section(DV, {
+            ["Title"] = "WhiteList Menu",
+            ["Icon"] = "lucide:settings",
+            ["IconAlign"] = "Left"
+        });
+        DV.Divider(DV);
+        variable_33 = {
+            ["WhitelistedPlayers"] = {},
+            ["Lava"] = {
+                ["Enabled"] = false,
+                ["Range"] = 70
+            },
+            ["Starlight"] = {
+                ["Enabled"] = false,
+                ["Radius"] = 300,
+                ["OriginalPos"] = nil
+            },
+            ["Phoenix"] = {
+                ["Enabled"] = false,
+                ["Range"] = 70
+            }
+        };
+        variable_34 = DV.Dropdown(DV, {
+            ["Title"] = "Universal Whitelist",
+            ["Desc"] = "Players here will not be hit by attacks by auto features like Lava Crater",
+            ["Values"] = {},
+            ["Multi"] = true,
+            ["AllowNone"] = true,
+            ["Callback"] = function(arg1_5, ...)
+                value_1 = arg1_5;
+                table.clear(variable_33.WhitelistedPlayers);
+                if type(value_1) == "table" then
+                    V = r[2];
+                    r = r[1];
+                    for t, value_4 in pairs(value_1) do
+                        if type(t) == "number" and type(value_4) == "string" then
+                            variable_33.WhitelistedPlayers[value_4] = true;
+                        else
+                            if type(t) == "string" and value_4 == true then
+                                variable_33.WhitelistedPlayers[t] = true;
+                            else
+                                if type(t) == "number" and (type(value_4) == "table" and type(value_4.Value) == "string") then
+                                    variable_33.WhitelistedPlayers[value_4.Value] = true;
+                                end;
+                            end;
+                        end; 
+                    end;
+                end;
+                V = {};
+                value_2 = variable_33;
+                t = value_2[1];
+                r = value_2[2];
+                for i, value_2 in pairs(value_2.WhitelistedPlayers) do
+                    table.insert(V, i); 
+                end;
+                if #V > 0 then
+                    print("Whitelisted players: " .. table.concat(V, ", "));
+                else
+                    print("Whitelisted players: (none)");
+                end;
+                return; 
+            end
+        });
+        local function eV(...)
+            r = variable_25;
+            t = r[3];
+            V = r[2];
+            r = "pairs";
+            for t, value_4 in pairs(r.GetPlayers(r)) do
+                i = t;
+                if value_4 ~= variable_26 then
+                    table.insert({}, value_4.Name);
+                end; 
+            end;
+            value_9 = variable_34;
+            value_9.Refresh(value_9, {});
+            return; 
+        end;
+        PV = variable_25.PlayerAdded;
+        PV.Connect(PV, eV);
+        PV = variable_25.PlayerRemoving;
+        PV.Connect(PV, eV);
+        task.spawn(eV);
+        v.Divider(v);
+        PV = v.Section(v, {
+            ["Title"] = "Lava",
+            ["Icon"] = "lucide:mountain",
+            ["Box"] = true,
+            ["Opened"] = false
+        });
+        VV = {
+            ["AutoAttack"] = false,
+            ["AttackDistance"] = 70,
+            ["WhitelistedPlayers"] = {}
+        };
+        Vs[19] = 9319530008819;
+        PV.Section(PV, {
+            ["Title"] = "Lava Element",
+            ["Icon"] = "lucide:mountain",
+            ["IconAlign"] = "Left"
+        });
+        PV.Divider(PV);
+        Vs[17] = 7048950893778;
+        PV.Toggle(PV, {
+            ["Title"] = "Auto Lava Crater (Multi)",
+            ["Desc"] = "Attacks all players within the range",
+            ["Icon"] = "lucide:mountain",
+            ["Value"] = false,
+            ["Callback"] = function(arg1_6, ...)
+                variable_33.Lava.Enabled = arg1_6;
+                return; 
+            end
+        });
+        PV.Section(PV, {
+            ["Title"] = "Lava Crater Settings",
+            ["Icon"] = "lucide:arrow-down-wide-narrow",
+            ["IconAlign"] = "Left"
+        });
+        PV.Slider(PV, {
+            ["Title"] = "Lava Range",
+            ["Step"] = 1,
+            ["Value"] = {
+                ["Min"] = 10,
+                ["Max"] = 500,
+                ["Default"] = 70
+            },
+            ["Callback"] = function(arg1_7, ...)
+                value_1 = arg1_7;
+                value_9 = variable_33.Lava;
+                r = typeof(value_1) == "table" and value_1.Value;
+                value_9 = value_9;
+                if r then
+                    value_9 = value_9;
+                    value_9.Range = r;
+                    return;
+                else
+                    V = arg1_7;
+                end; 
+            end
+        });
+        task.spawn(function(...)
+            while true do
+                task.wait(.1);
+                if variable_33.Lava.Enabled then
+                    value_9 = variable_26.Character;
+                    V = value_1 and value_9.FindFirstChild(value_9, "HumanoidRootPart");
+                    t = value_9;
+                    value_3 = t and value_9.FindFirstChild(value_9, "Lava Crater");
+                    value_9 = value_9;
+                    if t then
+                        t = t and value_1.FindFirstChild(value_1, "Lava Crater");
+                        if V then
+                            value_3 = t and value_1.FindFirstChild(value_1, "Lava Crater");
+                        end;
+                        if V then
+                            value_4 = variable_25;
+                            i = value_4[3];
+                            r = value_4[2];
+                            value_4 = "pairs";
+                            for i, value_6 in pairs(value_4.GetPlayers(value_4)) do
+                                value_2 = i;
+                                if value_6 ~= variable_26 and value_6.Character then
+                                    if variable_33.WhitelistedPlayers[value_6.Name] == true then
+                                        
+                                    else
+                                        if ((value_1 and value_1.FindFirstChild(value_1, "HumanoidRootPart")).Position - value_6.Character.HumanoidRootPart.Position).Magnitude <= variable_33.Lava.Range then
+                                            B = t.FindFirstChild(t, "ActivateEvent");
+                                            if B then
+                                                B.FireServer(B, value_6.Character.HumanoidRootPart.Position);
+                                            end;
+                                        end;
+                                    end;
+                                else
+                                    
+                                end; 
+                            end;
+                        end;
+                    else
+                        t = variable_26.Backpack;
+                        value_3 = t.FindFirstChild(t, "Lava Crater");
+                    end;
+                end; 
+            end;
+            return; 
+        end);
+        tV = v.Section(v, {
+            ["Title"] = "Light",
+            ["Icon"] = "lucide:zap",
+            ["Box"] = true,
+            ["Opened"] = false
+        });
+        iV = game;
+        variable_35 = iV.GetService(iV, "Players");
+        variable_36 = variable_35.LocalPlayer;
+        rV = game;
+        variable_37 = rV.GetService(rV, "ReplicatedStorage");
+        local function variable_38(...)
+            V = math.huge;
+            i = variable_35;
+            t = i[2];
+            i = i[1];
+            for r, value_2 in pairs(i.GetPlayers(i)) do
+                value_4 = r;
+                if value_2 ~= variable_36 and value_2.Character then
+                    N = "Magnitude";
+                    value_6 = (value_2.Character.HumanoidRootPart.Position - variable_36.Character.HumanoidRootPart.Position)[N];
+                    if value_6 < math.huge then
+                        N = value_6;
+                        value_1 = value_2;
+                        V = value_6;
+                    end;
+                end; 
+            end;
+            return nil; 
+        end;
+        local function variable_39(...)
+            value_9 = variable_36.Backpack;
+            i = variable_15("g\xf0@\x9e#1^\xb7\xaf", 5028065511717);
+            if variable_36[variable_16[i]] then
+                r = variable_36.Character;
+                t = r[3];
+                V = r[2];
+                r = "pairs";
+                for t, value_4 in pairs(r.GetChildren(r)) do
+                    i = t;
+                    table.insert(value_9.GetChildren(value_9), value_4); 
+                end;
+            end;
+            r = i[3];
+            t = i[2];
+            for r, value_4 in pairs(value_9.GetChildren(value_9)) do
+                i = r;
+                value_6 = value_4.IsA(value_4, "Tool");
+                if value_6 then
+                    value_2 = string.find(value_4.Name, "Light Orb");
+                end;
+                if value_6 then
+                    return value_4;
+                else
+                    
+                end; 
+            end;
+            return nil; 
+        end;
+        local function variable_40(...)
+            value_1 = variable_38();
+            V = variable_39();
+            if not V then
+                warn("Tool 'Light Orb' tidak ditemukan!");
+                return;
+            end;
+            if value_1 then
+                i = value_1.Character;
+                value_3 = i and i.FindFirstChild(i, "HumanoidRootPart");
+                value_9 = not V;
+            end;
+            if value_1 then
+                t = V.FindFirstChild(V, "ActivateEvent");
+                if t then
+                    t.FireServer(t, value_1.Character.HumanoidRootPart.Position);
+                    print("Lightning Orb ditembakkan ke: " .. v1.Name);
+                else
+                    warn("RemoteEvent 'ActivateEvent' tidak ditemukan!");
+                end;
+            else
+                warn("Tidak ada target terdekat!");
+            end;
+            return; 
+        end;
+        variable_41 = Instance.new("ScreenGui");
+        CV = Instance.new("TextButton");
+        variable_41.Name = "LightningOrbGui";
+        xV = game;
+        variable_41.Parent = xV.GetService(xV, "CoreGui");
+        variable_41.Enabled = false;
+        variable_41.ResetOnSpawn = false;
+        CV.Parent = variable_41;
+        CV.BackgroundColor3 = Color3.fromRGB(40, 40, 40);
+        CV.Position = UDim2.new(0.5, -50, .3, 0);
+        CV.Size = UDim2.new(0, 120, 0, 45);
+        Vs[27] = 28602881438727;
+        CV.Font = Enum.Font.SourceSansBold;
+        CV.Text = "FIRE LIGHTNING";
+        CV.TextColor3 = Color3.fromRGB(255, 255, 255);
+        CV.TextSize = 14;
+        CV.Draggable = true;
+        SV = CV.MouseButton1Click;
+        SV.Connect(SV, function(...)
+            variable_40();
+            return; 
+        end);
+        tV.Section(tV, {
+            ["Title"] = "Light Element",
+            ["Icon"] = "lucide:zap",
+            ["IconAlign"] = "Left"
+        });
+        local function variable_42(...)
+            V = math.huge;
+            i = variable_35;
+            r = i[3];
+            i = i[1];
+            for r, value_2 in i, pairs(i.GetPlayers(i)) do
+                value_4 = r;
+                if value_2 ~= variable_36 and value_2.Character then
+                    N = "Magnitude";
+                    value_6 = (value_2.Character.HumanoidRootPart.Position - variable_36.Character.HumanoidRootPart.Position)[N];
+                    if value_6 < math.huge then
+                        N = value_6;
+                        value_1 = value_2;
+                        V = value_6;
+                    end;
+                end; 
+            end;
+            return nil; 
+        end;
+        local function variable_43(...)
+            value_1 = variable_42();
+            if value_1 then
+                r = value_1.Character;
+                if r then
+                    r = value_9().Character;
+                    V = r.FindFirstChild(r, "HumanoidRootPart");
+                end;
+                value_9 = variable_42;
+                value_3 = r;
+            end;
+            if value_1 then
+                t = variable_37;
+                r = t.WaitForChild(t, "MoveSets");
+                t = r.WaitForChild(r, "Light");
+                r = t.WaitForChild(t, "WarthofGodClient");
+                t = r.WaitForChild(r, "Hitboxes");
+                t = variable_37;
+                i = t.WaitForChild(t, "MoveSets");
+                t = i.WaitForChild(i, "Light");
+                i = t.WaitForChild(t, "WarthofGodClient");
+                i = variable_37;
+                value_4 = i.WaitForChild(i, "MoveSets");
+                i = value_4.WaitForChild(value_4, "Light");
+                value_9 = variable_37;
+                value_3 = value_9.WaitForChild(value_9, "RempteFolder");
+                value_9 = value_3.WaitForChild(value_3, "Server");
+                value_9.FireServer(value_9, unpack({
+                    {
+                        ["skill"] = "WarthofGod",
+                        ["Function"] = "Shoot"
+                    },
+                    t.WaitForChild(t, "Hitbox"),
+                    value_1.Character.HumanoidRootPart.CFrame,
+                    i.WaitForChild(i, "projectiles"),
+                    i.WaitForChild(i, "WarthofGodClient")
+                }));
+                print("Warth of God fired at: " .. v1.Name);
+            else
+                warn("Tidak ada target terdekat!");
+            end;
+            return; 
+        end;
+        variable_44 = Instance.new("ScreenGui");
+        OV = Instance.new("TextButton");
+        JV = game;
+        variable_44.Parent = JV.GetService(JV, "CoreGui");
+        variable_44.Enabled = false;
+        variable_44.ResetOnSpawn = false;
+        variable_44.Name = "LightSkyGui";
+        OV.Parent = variable_44;
+        OV.BackgroundColor3 = Color3.fromRGB(40, 40, 40);
+        OV.Position = UDim2.new(0.5, -50, .2, 0);
+        OV.Size = UDim2.new(0, 120, 0, 45);
+        OV.Font = Enum.Font.SourceSansBold;
+        OV.Text = "FIRE LIGHT SKY";
+        OV.TextColor3 = Color3.fromRGB(255, 255, 255);
+        OV.TextSize = 14;
+        OV.Draggable = true;
+        ZV = OV.MouseButton1Click;
+        ZV.Connect(ZV, function(...)
+            variable_43();
+            return; 
+        end);
+        tV.Divider(tV);
+        tV.Toggle(tV, {
+            ["Title"] = "Starlight (BUG)",
+            ["Desc"] = "Must hold Sword of Starlight",
+            ["Icon"] = "lucide:zap",
+            ["Value"] = false,
+            ["Callback"] = function(arg1_8, ...)
+                variable_33.Starlight.Enabled = arg1_8;
+                return; 
+            end
+        });
+        Vs[18] = "v\xdb\x00\x8e\t\x1f\x95";
+        tV.Toggle(tV, {
+            ["Title"] = "Light Ball",
+            ["Desc"] = "Brings up a button to attack the nearest player with a light ball.",
+            ["Icon"] = "lucide:mouse-pointer-2",
+            ["Value"] = false,
+            ["Callback"] = function(arg1_9, ...)
+                if variable_41 then
+                    V = arg1_9;
+                    variable_41.Enabled = V;
+                end;
+                return; 
+            end
+        });
+        Vs[9] = 14158518458817;
+        tV.Toggle(tV, {
+            ["Title"] = "Light Attack From the Sky",
+            ["Desc"] = "Bring up a button to shoot a light attack at the nearest player.",
+            ["Icon"] = "lucide:zap",
+            ["Value"] = false,
+            ["Callback"] = function(arg1_10, ...)
+                if variable_44 then
+                    V = arg1_10;
+                    variable_44.Enabled = V;
+                end;
+                return; 
+            end
+        });
+        tV.Section(tV, {
+            ["Title"] = "Starlight Light Settings",
+            ["Icon"] = "lucide:arrow-down-wide-narrow",
+            ["IconAlign"] = "Left"
+        });
+        tV.Slider(tV, {
+            ["Title"] = "Teleport Radius",
+            ["Step"] = 1,
+            ["Value"] = {
+                ["Min"] = 10,
+                ["Max"] = 400,
+                ["Default"] = 300
+            },
+            ["Callback"] = function(arg1_11, ...)
+                value_1 = arg1_11;
+                value_9 = variable_33.Starlight;
+                r = typeof(value_1) == "table" and value_1.Value;
+                value_9 = value_9;
+                if r then
+                    value_9 = value_9;
+                    value_9.Radius = r;
+                    return;
+                else
+                    V = arg1_11;
+                end; 
+            end
+        });
+        task.spawn(function(...)
+            while true do
+                task.wait(.1);
+                if variable_33.Starlight.Enabled then
+                    t = variable_15;
+                    value_1 = variable_36.Character;
+                    V = value_1 and value_1.FindFirstChild(value_1, "SwordofStarlight");
+                    if value_1 then
+                        t = value_1.FindFirstChild(value_1, "HumanoidRootPart");
+                        value_3 = t and V;
+                        value_9 = variable_36[variable_16[r]];
+                    end;
+                    if value_1 then
+                        r = variable_33.Starlight.Radius;
+                        value_2 = variable_35;
+                        value_4 = value_2[3];
+                        value_2 = value_2[1];
+                        for value_4, N in value_2, pairs(value_2.GetPlayers(value_2)) do
+                            value_6 = value_4;
+                            if N ~= variable_36 and N.Character then
+                                if variable_33.WhitelistedPlayers[N.Name] == true then
+                                    
+                                else
+                                    value_9 = ((value_9.HumanoidRootPart.Position - N.Character.HumanoidRootPart.Position).Magnitude and N) < variable_33[variable_16[variable_15("(D2Ej\x84\x16\x7f\xb2", I)]].Radius;
+                                end;
+                            else
+                                
+                            end; 
+                        end;
+                        if nil then
+                            variable_33.Starlight.OriginalPos = value_9.HumanoidRootPart.CFrame;
+                            value_9.HumanoidRootPart.CFrame = nil.Character.HumanoidRootPart.CFrame * CFrame.new(0, 0, 3);
+                            i = V.FindFirstChild(V, "Qevent");
+                            if i then
+                                i = (value_1 and value_1.FindFirstChild(value_1, "SwordofStarlight")).Qevent;
+                                i.FireServer(i);
+                            end;
+                            task.wait(1);
+                            value_9.HumanoidRootPart.CFrame = variable_33.Starlight.OriginalPos;
+                            task.wait(2);
+                        end;
+                    end;
+                end; 
+            end;
+            return; 
+        end);
+        Vs[15] = 34761167650618;
+        Vs[11] = 12582961583843;
+        ZV = v.Section(v, {
+            ["Title"] = "Space",
+            ["Icon"] = "solar:rocket-2-bold-duotone",
+            ["Box"] = true,
+            ["Opened"] = false
+        });
+        variable_45 = 10;
+        variable_46 = 0;
+        variable_47 = 1;
+        variable_48 = "Gravity Rocks";
+        Vs[20] = 14086134651295;
+        local function variable_49(...)
+            value_3 = game;
+            value_9 = value_3.GetService(value_3, "Players").LocalPlayer;
+            V = value_9.Character;
+            V = V.FindFirstChildOfClass(V, "Tool") or V.FindFirstChildOfClass(V, "Tool");
+            if not V or not string.find(V.Name, variable_48) then
+                i = value_9.Backpack;
+                r = i[3];
+                t = i[2];
+                i = "pairs";
+                for r, value_2 in pairs(i.GetChildren(i)) do
+                    value_4 = r;
+                    if string.find(value_2.Name, variable_48) then
+                        V = value_2;
+                    else
+                        
+                    end; 
+                end;
+            end;
+            if V then
+                t = V.FindFirstChild(V, "RemoteEvent");
+            end;
+            value_9 = value_9;
+            if V then
+                return V.RemoteEvent;
+            end;
+            return nil; 
+        end;
+        local function variable_50(arg1_12, ...)
+            value_9 = variable_49;
+            V = value_9();
+            if V then
+                t = arg1_12;
+                for r = 1, t do
+                    value_3.FireServer(value_3, "SpawnBall", r);
+                    task.wait(.05); 
+                end;
+            else
+                value_9 = variable_24;
+                value_9.Notify(value_9, {
+                    ["Title"] = "Error",
+                    ["Content"] = "Tool Gravity Rocks tidak ditemukan!",
+                    ["Duration"] = 3
+                });
+            end;
+            return; 
+        end;
+        variable_51 = Instance.new("ScreenGui");
+        variable_52 = Instance.new("TextButton");
+        kV = Instance.new("UICorner");
+        Vs[31] = 9610049294715;
+        variable_51.Parent = h;
+        variable_51.Enabled = false;
+        Vs[25] = 4923444316404;
+        variable_52.Parent = variable_51;
+        variable_52.BackgroundColor3 = Color3.fromRGB(40, 40, 40);
+        variable_52.Position = UDim2.new(0.5, -50, .2, 0);
+        Vs[14] = 3003851736438;
+        variable_52.Size = UDim2.new(0, 120, 0, 45);
+        variable_52.Font = Enum.Font.SourceSansBold;
+        Vs[29] = 20202207798463;
+        variable_52.Text = "SPAWN ROCKS";
+        variable_52.TextColor3 = Color3.fromRGB(255, 255, 255);
+        variable_52.TextSize = 14;
+        variable_52.Draggable = true;
+        kV.CornerRadius = UDim.new(0, 8);
+        kV.Parent = variable_52;
+        local function variable_53(...)
+            variable_52.BackgroundColor3 = Color3.fromRGB(200, 0, 0);
+            task.wait(.3);
+            variable_52.BackgroundColor3 = Color3.fromRGB(40, 40, 40);
+            return; 
+        end;
+        task.spawn(function(...)
+            while true do
+                V = tick() - variable_46;
+                if V < variable_47 then
+                    variable_52.Text = "WAIT (" .. tostring(math.ceil(variable_47 - V)) .. "s)";
+                else
+                    variable_52.Text = "SPAWN (" .. r45 .. ")";
+                end;
+                task.wait(.1); 
+            end;
+            return; 
+        end);
+        gV = variable_52.MouseButton1Click;
+        gV.Connect(gV, function(...)
+            value_1 = tick();
+            if value_1 - variable_46 < variable_47 then
+                task.spawn(variable_53);
+                return;
+            end;
+            variable_46 = value_1;
+            variable_50(variable_45);
+            return; 
+        end);
+        ZV.Section(ZV, {
+            ["Title"] = "Space/Gravity Element",
+            ["Icon"] = "solar:rocket-2-bold-duotone",
+            ["IconAlign"] = "Left"
+        });
+        ZV.Divider(ZV);
+        Vs[4] = "+\x90\xab\xf8\x16p@\xadT";
+        ZV.Toggle(ZV, {
+            ["Title"] = "Enable Spawn Button",
+            ["Desc"] = "Spawn Rock",
+            ["Icon"] = "solar:rocket-2-bold-duotone",
+            ["Value"] = false,
+            ["Callback"] = function(arg1_13, ...)
+                variable_51.Enabled = arg1_13;
+                return; 
+            end
+        });
+        ZV.Section(ZV, {
+            ["Title"] = "Gravity Rocks Settings",
+            ["Icon"] = "lucide:arrow-down-wide-narrow",
+            ["IconAlign"] = "Left"
+        });
+        Vs[21] = 5200714320245;
+        ZV.Slider(ZV, {
+            ["Title"] = "Rock Amount",
+            ["Desc"] = "Set the number of stones to be spawned",
+            ["Step"] = 1,
+            ["Value"] = {
+                ["Min"] = 1,
+                ["Max"] = 50,
+                ["Default"] = 10
+            },
+            ["Callback"] = function(arg1_14, ...)
+                variable_45 = arg1_14;
+                return; 
+            end
+        });
+        gV = v.Section(v, {
+            ["Title"] = "Phoenix",
+            ["Icon"] = "lucide:bird",
+            ["Box"] = true,
+            ["Opened"] = false
+        });
+        gV.Section(gV, {
+            ["Title"] = "Phoenix Element?",
+            ["Icon"] = "lucide:bird",
+            ["IconAlign"] = "Left"
+        });
+        gV.Divider(gV);
+        gV.Toggle(gV, {
+            ["Title"] = "Auto Phoenix Strike",
+            ["Desc"] = "Automatically attacks players who enter the radius continuously",
+            ["Icon"] = "lucide:bird",
+            ["Value"] = false,
+            ["Callback"] = function(arg1_15, ...)
+                variable_33.Phoenix.Enabled = arg1_15;
+                return; 
+            end
+        });
+        gV.Section(gV, {
+            ["Title"] = "Phoenix Strike Settings",
+            ["Icon"] = "lucide:arrow-down-wide-narrow",
+            ["IconAlign"] = "Left"
+        });
+        gV.Slider(gV, {
+            ["Title"] = "Attack Range",
+            ["Step"] = 1,
+            ["Value"] = {
+                ["Min"] = 10,
+                ["Max"] = 500,
+                ["Default"] = 70
+            },
+            ["Callback"] = function(arg1_16, ...)
+                value_1 = arg1_16;
+                value_9 = variable_33.Phoenix;
+                r = typeof(value_1) == "table" and value_1.Value;
+                value_9 = value_9;
+                if r then
+                    value_9 = value_9;
+                    value_9.Range = r;
+                    return;
+                else
+                    V = arg1_16;
+                end; 
+            end
+        });
+        Vs[16] = "\x96\xfdi";
+        task.spawn(function(...)
+            while true do
+                task.wait(0.5);
+                V = variable_16;
+                if variable_33.Phoenix.Enabled then
+                    value_3 = game;
+                    value_4 = 11855694239120;
+                    V = value_3.GetService(value_3, "Players").LocalPlayer[variable_16[variable_15("\xb3y\xcf[\x82K\x16\x97\xeb", value_4)]];
+                    if V then
+                        value_3 = V.FindFirstChild(V, "HumanoidRootPart");
+                    end;
+                    if V then
+                        value_9 = pairs;
+                        N = variable_15;
+                        I = N("\xad\x8a-Ld\x19\xd3L", 1069893206514);
+                        value_4 = value_3.GetService(value_3, variable_16[variable_15("\xba\xa5[X?\xe9/", value_2)]).LocalPlayer[variable_16[I]];
+                        i = value_4[3];
+                        value_4 = value_4[1];
+                        for i, value_6 in value_4, value_9(value_4.GetChildren(value_4)) do
+                            value_2 = i;
+                            if string.find(value_6.Name, "Phoenix Strike") then
+                                t = value_6;
+                            else
+                                
+                            end; 
+                        end;
+                        i = value_9;
+                        value_4 = not nil;
+                        if value_4 then
+                            r = value_9;
+                        end;
+                        value_9 = i;
+                        if value_4 then
+                            N = value_9.GetChildren;
+                            value_6 = {
+                                N(value_9)
+                            };
+                            value_2 = N[3];
+                            value_4 = N[2];
+                            for value_2, value_6 in pairs(F(value_6)) do
+                                r = value_2;
+                                if string.find(value_6.Name, "Phoenix Strike") then
+                                    t = value_6;
+                                else
+                                    
+                                end; 
+                            end;
+                        end;
+                        if nil then
+                            r = nil.FindFirstChild(nil, "FirePillarEvent");
+                        end;
+                        value_9 = value_9;
+                        if nil then
+                            value_6 = game;
+                            I = value_6.GetService(value_6, "Players");
+                            value_6 = {
+                                I.GetPlayers(I)
+                            };
+                            i = I[1];
+                            value_4 = I[2];
+                            for value_2, value_6 in pairs(F(value_6)) do
+                                r = value_2;
+                                value_9 = i;
+                                if value_6 ~= value_3.GetService(value_3, variable_16[variable_15("\xba\xa5[X?\xe9/", value_2)]).LocalPlayer and value_6.Character then
+                                    if variable_33.WhitelistedPlayers[value_6.Name] == true then
+                                        
+                                    else
+                                        I = value_6.Character.HumanoidRootPart;
+                                        J = (value_9.HumanoidRootPart.Position - I.Position).Magnitude <= variable_33.Phoenix.Range;
+                                        if J then
+                                            J = nil.FirePillarEvent;
+                                            J.FireServer(J, I.Position);
+                                        end;
+                                    end;
+                                else
+                                    
+                                end; 
+                            end;
+                        end;
+                    end;
+                end; 
+            end;
+            return; 
+        end);
+        bV = v.Section(v, {
+            ["Title"] = "Crystal",
+            ["Icon"] = "lucide:sparkles",
+            ["Box"] = true,
+            ["Opened"] = false
+        });
+        variable_54 = false;
+        local function variable_55(...)
+            value_9 = game;
+            V = value_9.GetService(value_9, "Players").LocalPlayer;
+            t = V.Character;
+            r = V.FindFirstChild(V, "Backpack");
+            i = {};
+            if t then
+                N = t.GetChildren;
+                value_6 = {
+                    N(t)
+                };
+                value_4 = N[2];
+                value_2 = N[3];
+                for value_2, I in pairs(F(value_3)) do
+                    N = value_2;
+                    if I.IsA(I, "Tool") then
+                        table.insert(i, I);
+                    end; 
+                end;
+            end;
+            if r then
+                I = r.GetChildren;
+                value_6 = I[3];
+                for value_6, I in I[1], pairs(I(r)) do
+                    N = value_6;
+                    if I.IsA(I, "Tool") then
+                        table.insert(i, I);
+                    end; 
+                end;
+            end;
+            value_4 = N[1];
+            value_2 = N[2];
+            for value_6, I in pairs(i) do
+                N = value_6;
+                if string.find(I.Name, "Crystal Surf") then
+                    return I;
+                else
+                    
+                end; 
+            end;
+            return nil; 
+        end;
+        Vs[10] = 14720023616198;
+        bV.Section(bV, {
+            ["Title"] = "Crystal Element",
+            ["Icon"] = "lucide:sparkles",
+            ["IconAlign"] = "Left"
+        });
+        bV.Divider(bV);
+        bV.Toggle(bV, {
+            ["Title"] = "Crystal Surf",
+            ["Desc"] = "Auto Surf when using Crystal Element",
+            ["Icon"] = "lucide:sparkles",
+            ["Value"] = false,
+            ["Callback"] = function(arg1_17, ...)
+                value_1 = arg1_17;
+                variable_54 = value_1;
+                if value_1 then
+                    task.spawn(function(...)
+                        while variable_54 do
+                            value_1 = variable_55();
+                            if value_1 then
+                                V = value_3.FindFirstChild(value_3, "RemoteEvent");
+                                t = game.Players.LocalPlayer.Character;
+                                t = t and t.FindFirstChild(t, "HumanoidRootPart");
+                                if V then
+                                    value_3 = t and t.FindFirstChild(t, "HumanoidRootPart");
+                                end;
+                                if V then
+                                    V.FireServer(V, {
+                                        t.Position
+                                    });
+                                end;
+                                task.wait(0.5);
+                            else
+                                value_9 = variable_24;
+                                value_9.Notify(value_9, {
+                                    ["Title"] = "System",
+                                    ["Content"] = "You must use Crystal Element",
+                                    ["Duration"] = 2,
+                                    ["Icon"] = "lucide:alert-triangle"
+                                });
+                                task.wait(2);
+                            end; 
+                        end;
+                        return; 
+                    end);
+                end;
+                return; 
+            end
+        });
+        v.Divider(v);
+        RV = v.Section(v, {
+            ["Title"] = "GLOBAL FOV AIMBOT",
+            ["Icon"] = "lucide:circle-plus",
+            ["Box"] = true,
+            ["Opened"] = false
+        });
+        cV = game;
+        variable_56 = cV.GetService(cV, "Players");
+        aV = game;
+        variable_57 = variable_56.LocalPlayer;
+        variable_58 = workspace.CurrentCamera;
+        variable_59 = false;
+        variable_60 = 70;
+        variable_61 = -40;
+        variable_62 = false;
+        variable_63 = false;
+        variable_64 = false;
+        Hs = {
+            pcall(function(...)
+                value_1 = Drawing.new("Circle");
+                value_1.Thickness = 2;
+                value_1.Color = Color3.fromRGB(255, 0, 0);
+                value_1.Filled = false;
+                value_1.Transparency = 1;
+                value_1.Visible = false;
+                value_1.NumSides = 64;
+                return value_1; 
+            end)
+        };
+        fs = pcall(function(...)
+            value_1 = Drawing.new("Circle");
+            value_1.Thickness = 2;
+            value_1.Color = Color3.fromRGB(255, 0, 0);
+            value_1.Filled = false;
+            value_1.Transparency = 1;
+            value_1.Visible = false;
+            value_1.NumSides = 64;
+            return value_1; 
+        end);
+        variable_65 = Hs[2];
+        Vs[28] = 4686510213254;
+        local function variable_68(...)
+            if variable_66 and variable_66.Parent then
+                return;
+            end;
+            value_1 = variable_57;
+            variable_66 = Instance.new("ScreenGui");
+            variable_66.Name = "AimbotFOVGui";
+            variable_66.ResetOnSpawn = false;
+            t = value_1.FindFirstChild(value_1, "PlayerGui") or value_1.GetService(value_1, "CoreGui");
+            variable_66.Parent = t;
+            variable_67 = Instance.new("Frame");
+            variable_67.Name = "FOVCircle";
+            variable_67.AnchorPoint = Vector2.new(0.5, 0.5);
+            variable_67.Position = UDim2.new(0.5, 0, 0.5, variable_61);
+            variable_67.BackgroundTransparency = 1;
+            variable_67.BorderSizePixel = 0;
+            variable_67.Parent = variable_66;
+            t = Instance.new("UIStroke");
+            t.Name = "Stroke";
+            t.ApplyStrokeMode = Enum.ApplyStrokeMode.Border;
+            t.Thickness = 2;
+            t.Color = Color3.fromRGB(255, 0, 0);
+            t.Parent = variable_67;
+            r = Instance.new("UICorner");
+            r.Name = "Corner";
+            r.CornerRadius = UDim.new(0.5, 0);
+            r.Parent = variable_67;
+            variable_66.Enabled = variable_59;
+            return; 
+        end;
+        local function ms(...)
+            if variable_66 then
+                value_9 = variable_66;
+                value_9.Destroy(value_9);
+            end;
+            return; 
+        end;
+        local function variable_69(...)
+            if not variable_67 then
+                variable_68();
+            end;
+            if not variable_67 then
+                return;
+            end;
+            value_1 = math.floor(variable_60 * 2);
+            variable_67.Size = UDim2.new(0, value_1, 0, value_1);
+            variable_67.Position = UDim2.new(0.5, 0, 0.5, variable_61);
+            variable_66.Enabled = variable_59;
+            return; 
+        end;
+        local function variable_70(...)
+            value_1 = variable_58.ViewportSize;
+            return Vector2.new(value_1.X / 2, value_1.Y / 2 + variable_61); 
+        end;
+        local function variable_71(arg1_18, ...)
+            value_1 = arg1_18;
+            value_1.lower(value_1);
+            t = variable_57.Character;
+            if not t then
+                return nil;
+            end;
+            r = t.FindFirstChildOfClass(t, "Humanoid");
+            value_6 = t.GetChildren;
+            value_2 = {
+                value_6(t)
+            };
+            i = value_6[2];
+            value_2 = value_6[1];
+            for value_4, N in pairs(F(value_2)) do
+                value_7 = variable_16;
+                value_6 = value_4;
+                B = N.IsA(N, "Tool");
+                if B then
+                    value_7 = N.Name;
+                    I = string.find(value_7.lower(value_7), value_1.lower(value_1));
+                end;
+                if B then
+                    return N;
+                else
+                    
+                end; 
+            end;
+            value_9 = pairs;
+            J = variable_16;
+            N = variable_57.Backpack;
+            I = {
+                N.GetChildren(N)
+            };
+            value_6 = N[3];
+            value_2 = N[2];
+            for value_6, I in value_9(F(I)) do
+                N = value_6;
+                value_8 = variable_16;
+                J = I.IsA(I, "Tool");
+                if J then
+                    value_8 = I.Name;
+                    B = string.find(value_8.lower(value_8), value_1.lower(value_1));
+                end;
+                if J then
+                    i = I;
+                else
+                    
+                end; 
+            end;
+            if nil then
+                value_4 = t.FindFirstChildOfClass(t, "Humanoid");
+            end;
+            value_9 = value_9;
+            if i then
+                r.EquipTool(r, nil);
+                return nil;
+            end;
+            return nil; 
+        end;
+        local function variable_72(...)
+            variable_70();
+            t = math.huge;
+            r = variable_57.Character;
+            if not r then
+                return nil;
+            end;
+            r.FindFirstChild(r, "HumanoidRootPart");
+            value_6 = variable_56;
+            value_2 = value_6[3];
+            value_6 = value_6[1];
+            for value_2, I in value_6, pairs(value_6.GetPlayers(value_6)) do
+                N = value_2;
+                if I ~= variable_57 and I.Character then
+                    value_9 = I.Character;
+                    B = value_9.FindFirstChild(value_9, "HumanoidRootPart");
+                    value_9 = I.Character;
+                    J = value_9.FindFirstChildOfClass(value_9, "Humanoid");
+                    if B then
+                        value_7 = J and J.Health > 0;
+                        value_9 = I.Character;
+                    end;
+                    if B then
+                        value_9 = variable_59;
+                        if value_9 then
+                            value_9 = variable_58;
+                            k = {
+                                value_9.WorldToViewportPoint(value_9, value_9.FindFirstChild(value_9, "HumanoidRootPart").Position)
+                            };
+                            value_7 = value_9.WorldToViewportPoint(value_9, value_9.FindFirstChild(value_9, "HumanoidRootPart").Position);
+                            if k[2] then
+                                T = (Vector2.new(value_7.X, value_7.Y) - variable_70()).Magnitude;
+                                k = T <= variable_60 and T < math.huge;
+                                if k then
+                                    k = value_9;
+                                    t = T;
+                                    V = I;
+                                end;
+                            end;
+                        else
+                            if r.FindFirstChild(r, "HumanoidRootPart") then
+                                T = "Magnitude";
+                                value_7 = (value_9.FindFirstChild(value_9, "HumanoidRootPart").Position - r.FindFirstChild(r, "HumanoidRootPart").Position)[T];
+                                if value_7 < math.huge then
+                                    V = I;
+                                    T = value_7;
+                                    t = value_7;
+                                end;
+                            end;
+                        end;
+                    end;
+                end; 
+            end;
+            return nil; 
+        end;
+        Vs[1] = variable_16;
+        Vs[2] = variable_15;
+        local function ps(arg1_19, ...)
+            value_1 = arg1_19;
+            if not value_1 then
+                return;
+            end;
+            t = variable_57;
+            value_1.Parent = t.FindFirstChild(t, "PlayerGui") or t.GetService(t, "CoreGui");
+            return; 
+        end;
+        Vs[3] = Vs[2](Vs[4], Vs[5]);
+        Vs[3] = "Color3";
+        Vs[2] = Env[Vs[3]];
+        Vs[4] = variable_16;
+        Vs[5] = variable_15;
+        Vs[6] = Vs[5](Vs[7], Vs[8]);
+        Vs[5] = 40;
+        Vs[3] = Vs[4][Vs[6]];
+        Vs[4] = 40;
+        Vs[6] = 26693010141325;
+        Vs[8] = "W\x94\xdb\x9a\xadx\xf1";
+        Vs[1] = Vs[2][Vs[3]];
+        Vs[3] = 40;
+        Vs[2] = Vs[1](Vs[3], Vs[4], Vs[5]);
+        Vs[1] = .12;
+        Vs[3] = function(...)
+            value_1 = variable_71("Projectile") or variable_71("Force Projectiles");
+            if not value_1 then
+                return;
+            end;
+            V = value_1.FindFirstChild(value_1, "ProjectileAbilityEvent") or value_1.FindFirstChildWhichIsA(value_1, "RemoteEvent", true);
+            t = variable_72();
+            if t then
+                value_3 = t.Character;
+            end;
+            if t then
+                V.FireServer(V, t.Character.HumanoidRootPart.Position);
+            else
+                if not variable_59 then
+                    V.FireServer(V, originalVector);
+                end;
+                return;
+            end; 
+        end;
+        variable_73 = Ps(Vs[1][Vs[3]], Vs[2], Vs[1], Vs[3]);
+        Vs[2] = variable_16;
+        Vs[5] = "\xff\xbc\x024\x94\xd7VR8\xc9\xb6\xfc";
+        Vs[3] = variable_15;
+        Vs[4] = Vs[3](Vs[5], Vs[6]);
+        Vs[1] = Vs[2][Vs[4]];
+        Vs[4] = "Color3";
+        Vs[3] = Env[Vs[4]];
+        Vs[5] = variable_16;
+        Vs[6] = variable_15;
+        Vs[7] = Vs[6](Vs[8], Vs[9]);
+        Vs[4] = Vs[5][Vs[7]];
+        Vs[6] = 150;
+        Vs[2] = Vs[3][Vs[4]];
+        Vs[7] = 13245197850647;
+        Vs[4] = 40;
+        Vs[5] = 40;
+        Vs[3] = Vs[2](Vs[4], Vs[5], Vs[6]);
+        Vs[2] = .18;
+        Vs[4] = function(...)
+            value_1 = variable_71("Doom Sphere");
+            if value_1 then
+                V = value_1.FindFirstChild(value_1, "StartCharge");
+                if V then
+                    V.FireServer(V);
+                end;
+                task.wait(.1);
+                value_9 = variable_57.Character;
+                if value_9 then
+                    value_9 = variable_57.Character.Humanoid;
+                    value_9.UnequipTools(value_9);
+                end;
+            end;
+            return; 
+        end;
+        Vs[1] = 67;
+        Vs[6] = "s+A<\xef\x10\x97\xacR\xec\xe44\xe0\xe2";
+        E[Vs[1]] = Ps(Vs[1], Vs[3], Vs[2], Vs[4]);
+        Vs[3] = variable_16;
+        Vs[4] = variable_15;
+        Vs[5] = Vs[4](Vs[6], Vs[7]);
+        Vs[9] = "\xa1\xa7vz\xb0\xd7\x1d";
+        Vs[2] = Vs[3][Vs[5]];
+        Vs[5] = "Color3";
+        Vs[4] = Env[Vs[5]];
+        Vs[6] = variable_16;
+        Vs[7] = variable_15;
+        Vs[8] = Vs[7](Vs[9], Vs[10]);
+        Vs[5] = Vs[6][Vs[8]];
+        Vs[7] = 40;
+        Vs[8] = 4639679285360;
+        Vs[6] = 40;
+        Vs[3] = Vs[4][Vs[5]];
+        Vs[5] = 150;
+        Vs[4] = Vs[3](Vs[5], Vs[6], Vs[7]);
+        Vs[5] = function(...)
+            value_1 = variable_72();
+            V = variable_71("Doom Sphere");
+            if not V then
+                return;
+            end;
+            t = V.FindFirstChild(V, "ReleaseCharge");
+            if not t then
+                return;
+            end;
+            if value_1 then
+                value_3 = value_1.Character;
+            end;
+            if value_1 then
+                t.FireServer(t, value_1.Character.HumanoidRootPart.Position);
+                print("Released to: " .. v1.Name);
+            else
+                if not variable_59 then
+                    t.FireServer(t, originalVector);
+                end;
+                task.wait(.1);
+                value_9 = variable_57.Character;
+                if value_9 then
+                    value_9 = variable_57.Character.Humanoid;
+                    value_9.UnequipTools(value_9);
+                end;
+                return;
+            end; 
+        end;
+        Vs[3] = .24;
+        Vs[7] = "\x04d\x8e3>\x84\x7fq\xc2\xa3\xf5pC";
+        Vs[2] = 68;
+        E[Vs[2]] = Ps(Vs[2], Vs[4], Vs[3], Vs[5]);
+        Vs[4] = variable_16;
+        Vs[5] = variable_15;
+        Vs[6] = Vs[5](Vs[7], Vs[8]);
+        Vs[3] = Vs[4][Vs[6]];
+        rs = aV.GetService(aV, "RunService")[Vs[3]];
+        Vs[4] = function(...)
+            value_1 = variable_59;
+            if variable_65 then
+                variable_65.Visible = value_1;
+                if value_1 then
+                    t = variable_70();
+                    variable_65.Position = t;
+                    variable_65.Radius = variable_60;
+                    variable_65.Color = Color3.fromRGB(255, 0, 0);
+                end;
+            end;
+            if value_1 then
+                variable_69();
+            else
+                if variable_66 and variable_66.Parent then
+                    variable_66.Enabled = false;
+                end;
+                return;
+            end; 
+        end;
+        Vs[8] = "\x99\xa5\xe0q\xe8";
+        Vs[3] = "Connect";
+        Vs[10] = 31009693579368;
+        Vs[3] = rs[Vs[3]];
+        Vs[3] = Vs[3](rs, Vs[4]);
+        Vs[9] = 17385431670687;
+        Vs[5] = variable_16;
+        Vs[6] = variable_15;
+        Vs[7] = Vs[6](Vs[8], Vs[9]);
+        Vs[4] = Vs[5][Vs[7]];
+        Vs[6] = variable_16;
+        Vs[7] = variable_15;
+        Vs[9] = "\x05\x0c\xfb\x8e\xac\xb3\x9e\x17";
+        Vs[8] = Vs[7](Vs[9], Vs[10]);
+        Vs[10] = "\x17\x17`\xb9";
+        Vs[5] = Vs[6][Vs[8]];
+        Vs[7] = variable_16;
+        Vs[8] = variable_15;
+        Vs[9] = Vs[8](Vs[10], Vs[11]);
+        Vs[6] = Vs[7][Vs[9]];
+        Vs[8] = variable_16;
+        Vs[9] = variable_15;
+        Vs[11] = "\x89\x7f\xa5\xf8<\xad\xca,\xb2\xbf\xe9\xe5I\x12\x05\x98-\x8d";
+        Vs[10] = Vs[9](Vs[11], Vs[12]);
+        Vs[7] = Vs[8][Vs[10]];
+        Vs[9] = variable_16;
+        Vs[10] = variable_15;
+        Vs[12] = "=\xebA\xb2x>\x1b\xe0_";
+        Vs[11] = Vs[10](Vs[12], Vs[13]);
+        Vs[8] = Vs[9][Vs[11]];
+        Vs[13] = "ga\\\xb4";
+        Vs[10] = variable_16;
+        Vs[11] = variable_15;
+        Vs[12] = Vs[11](Vs[13], Vs[14]);
+        Vs[9] = Vs[10][Vs[12]];
+        Vs[10] = 11639330264363;
+        Vs[3] = {
+            [Vs[4]] = Vs[5],
+            [Vs[6]] = Vs[7],
+            [Vs[8]] = Vs[9]
+        };
+        RV.Section(RV, Vs[3]);
+        RV.Divider(RV);
+        Vs[8] = "29t\xf9\xe1";
+        Vs[5] = variable_16;
+        Vs[6] = variable_15;
+        Vs[9] = 31941730941466;
+        Vs[7] = Vs[6](Vs[8], Vs[9]);
+        Vs[4] = Vs[5][Vs[7]];
+        Vs[14] = "\x80\xf7\x9f";
+        Vs[6] = variable_16;
+        Vs[7] = variable_15;
+        Vs[13] = 26359353880562;
+        Vs[11] = 8006229053072;
+        Vs[9] = "\xa0psZ9\x8f'\x05\xf1\xa6\xdb\xa3\xa2x";
+        Vs[8] = Vs[7](Vs[9], Vs[10]);
+        Vs[5] = Vs[6][Vs[8]];
+        Vs[7] = variable_16;
+        Vs[8] = variable_15;
+        Vs[10] = "\x92\"\xf4\x8e";
+        Vs[9] = Vs[8](Vs[10], Vs[11]);
+        Vs[12] = 10002556686897;
+        Vs[11] = "YT\xf4\xd0p6\xdd\xdf\xd4d\xd5\xb1\xf2+.\r{\xd0X0\xf5\x93\x99\r\xdah\x06[<MTmw\x9b\x85\xd1I\x9e\xc0\x90";
+        Vs[6] = Vs[7][Vs[9]];
+        Vs[8] = variable_16;
+        Vs[9] = variable_15;
+        Vs[10] = Vs[9](Vs[11], Vs[12]);
+        Vs[12] = "\xde:\x82\"\xae.'W";
+        Vs[7] = Vs[8][Vs[10]];
+        Vs[9] = variable_16;
+        Vs[10] = variable_15;
+        Vs[11] = Vs[10](Vs[12], Vs[13]);
+        Vs[8] = Vs[9][Vs[11]];
+        Vs[9] = function(arg1_20, ...)
+            variable_59 = arg1_20;
+            if variable_59 then
+                variable_69();
+            else
+                if variable_66 then
+                    variable_66.Enabled = false;
+                end;
+                return;
+            end; 
+        end;
+        Vs[11] = 576241287436;
+        Vs[3] = {
+            [Vs[4]] = Vs[5],
+            [Vs[6]] = Vs[7],
+            [Vs[8]] = Vs[9]
+        };
+        RV.Toggle(RV, Vs[3]);
+        Vs[5] = variable_16;
+        Vs[9] = 29793660515889;
+        Vs[6] = variable_15;
+        Vs[8] = "\xd6v\x90P\x10";
+        Vs[13] = 21767771940760;
+        Vs[12] = "l9mzn";
+        Vs[7] = Vs[6](Vs[8], Vs[9]);
+        Vs[4] = Vs[5][Vs[7]];
+        Vs[10] = 13554888071335;
+        Vs[9] = "\xc3=`\x1d{\x81";
+        Vs[6] = variable_16;
+        Vs[7] = variable_15;
+        Vs[8] = Vs[7](Vs[9], Vs[10]);
+        Vs[10] = "`i\xab\x82";
+        Vs[5] = Vs[6][Vs[8]];
+        Vs[7] = variable_16;
+        Vs[8] = variable_15;
+        Vs[9] = Vs[8](Vs[10], Vs[11]);
+        Vs[6] = Vs[7][Vs[9]];
+        Vs[9] = variable_16;
+        Vs[10] = variable_15;
+        Vs[7] = 1;
+        Vs[11] = Vs[10](Vs[12], Vs[13]);
+        Vs[8] = Vs[9][Vs[11]];
+        Vs[11] = variable_16;
+        Vs[12] = variable_15;
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[11] = 10;
+        Vs[13] = variable_16;
+        Vs[14] = variable_15;
+        Vs[15] = Vs[14](Vs[16], Vs[17]);
+        Vs[12] = Vs[13][Vs[15]];
+        Vs[15] = variable_16;
+        Vs[13] = 500;
+        Vs[16] = variable_15;
+        Vs[17] = Vs[16](Vs[18], Vs[19]);
+        Vs[14] = Vs[15][Vs[17]];
+        Vs[15] = 70;
+        Vs[9] = {
+            [Vs[10]] = Vs[11],
+            [Vs[12]] = Vs[13],
+            [Vs[14]] = Vs[15]
+        };
+        Vs[11] = variable_16;
+        Vs[12] = variable_15;
+        Vs[14] = "6\x07\xe85\xa8|a)";
+        Vs[15] = 21196470888078;
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[11] = function(arg1_21, ...)
+            variable_60 = arg1_21;
+            variable_69();
+            return; 
+        end;
+        Vs[3] = {
+            [Vs[4]] = Vs[5],
+            [Vs[6]] = Vs[7],
+            [Vs[8]] = Vs[9],
+            [Vs[10]] = Vs[11]
+        };
+        RV.Slider(RV, Vs[3]);
+        Vs[8] = "3P\xec\x81\xd7";
+        Vs[17] = 29600979367384;
+        Vs[16] = "J\x8cp";
+        Vs[5] = variable_16;
+        Vs[6] = variable_15;
+        Vs[9] = 2633477620938;
+        Vs[7] = Vs[6](Vs[8], Vs[9]);
+        Vs[4] = Vs[5][Vs[7]];
+        Vs[6] = variable_16;
+        Vs[10] = 507940471020;
+        Vs[14] = "\xa4E\xc1";
+        Vs[9] = "\tl\x93wp\xe1\x1a\xd5";
+        Vs[11] = 12081901360634;
+        Vs[7] = variable_15;
+        Vs[8] = Vs[7](Vs[9], Vs[10]);
+        Vs[5] = Vs[6][Vs[8]];
+        Vs[7] = variable_16;
+        Vs[10] = "\x15\x9b*\xa6";
+        Vs[8] = variable_15;
+        Vs[9] = Vs[8](Vs[10], Vs[11]);
+        Vs[6] = Vs[7][Vs[9]];
+        Vs[7] = 1;
+        Vs[15] = 26585967013980;
+        Vs[12] = "*\x0f\x8c\xb8#";
+        Vs[18] = "\xf1\x89\x06\x19\x81\xf4\x8b";
+        Vs[13] = 7273156922682;
+        Vs[9] = variable_16;
+        Vs[19] = 7632030469601;
+        Vs[10] = variable_15;
+        Vs[11] = Vs[10](Vs[12], Vs[13]);
+        Vs[8] = Vs[9][Vs[11]];
+        Vs[11] = variable_16;
+        Vs[12] = variable_15;
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[11] = -200;
+        Vs[13] = variable_16;
+        Vs[14] = variable_15;
+        Vs[15] = Vs[14](Vs[16], Vs[17]);
+        Vs[12] = Vs[13][Vs[15]];
+        Vs[13] = 200;
+        Vs[15] = variable_16;
+        Vs[16] = variable_15;
+        Vs[17] = Vs[16](Vs[18], Vs[19]);
+        Vs[14] = Vs[15][Vs[17]];
+        Vs[15] = -40;
+        Vs[9] = {
+            [Vs[10]] = Vs[11],
+            [Vs[12]] = Vs[13],
+            [Vs[14]] = Vs[15]
+        };
+        Vs[15] = 21653791926115;
+        Vs[11] = variable_16;
+        Vs[12] = variable_15;
+        Vs[14] = "n\x14\xc8\xd7h\xd71\xe3";
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[18] = 14658582289065;
+        Vs[14] = "\x93\x11g\"\xe6\x8c";
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[11] = function(arg1_22, ...)
+            variable_61 = arg1_22;
+            variable_69();
+            return; 
+        end;
+        Vs[3] = {
+            [Vs[4]] = Vs[5],
+            [Vs[6]] = Vs[7],
+            [Vs[8]] = Vs[9],
+            [Vs[10]] = Vs[11]
+        };
+        RV.Slider(RV, Vs[3]);
+        Vs[5] = variable_16;
+        Vs[9] = 13125502310368;
+        Vs[12] = 30510933981055;
+        Vs[11] = 20078235051141;
+        Vs[8] = "\xac\xff\x05R\xbe";
+        Vs[6] = variable_15;
+        Vs[7] = Vs[6](Vs[8], Vs[9]);
+        Vs[10] = 11948713907644;
+        Vs[4] = Vs[5][Vs[7]];
+        Vs[6] = variable_16;
+        Vs[7] = variable_15;
+        Vs[9] = "M\x04\r%\xd8P*\x03\x1eD";
+        Vs[8] = Vs[7](Vs[9], Vs[10]);
+        Vs[10] = "\x9d;\xc1{";
+        Vs[13] = 7774035398180;
+        Vs[5] = Vs[6][Vs[8]];
+        Vs[7] = variable_16;
+        Vs[8] = variable_15;
+        Vs[9] = Vs[8](Vs[10], Vs[11]);
+        Vs[6] = Vs[7][Vs[9]];
+        Vs[8] = variable_16;
+        Vs[9] = variable_15;
+        Vs[11] = "\x95S\xe6k2\xf8\xdd>5\xa6\xd6\xd0\x10\xd9\x8e#\x0c\x15";
+        Vs[10] = Vs[9](Vs[11], Vs[12]);
+        Vs[12] = "\x96\x9e]";
+        Vs[7] = Vs[8][Vs[10]];
+        Vs[15] = 32661196651369;
+        Vs[9] = variable_16;
+        Vs[10] = variable_15;
+        Vs[11] = Vs[10](Vs[12], Vs[13]);
+        Vs[8] = Vs[9][Vs[11]];
+        Vs[11] = variable_16;
+        Vs[12] = variable_15;
+        Vs[9] = true;
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[11] = false;
+        Vs[3] = {
+            [Vs[4]] = Vs[5],
+            [Vs[6]] = Vs[7],
+            [Vs[8]] = Vs[9],
+            [Vs[10]] = Vs[11]
+        };
+        Vs[12] = 480676282591;
+        rs = v.Section(v, Vs[3]);
+        Vs[6] = variable_16;
+        Vs[7] = variable_15;
+        Vs[15] = 8486905335664;
+        Vs[11] = 34647437459205;
+        Vs[10] = 1089553498619;
+        Vs[9] = "'\x1a\r\x0b\xb2";
+        Vs[8] = Vs[7](Vs[9], Vs[10]);
+        Vs[10] = "~\x0e3\x0b7\xbbG\x04\xd39\xd2S\xb4\x11s";
+        Vs[5] = Vs[6][Vs[8]];
+        Vs[13] = 33031284440085;
+        Vs[7] = variable_16;
+        Vs[8] = variable_15;
+        Vs[3] = "Section";
+        Vs[9] = Vs[8](Vs[10], Vs[11]);
+        Vs[14] = 11102395618353;
+        Vs[11] = "\x1daH\xca";
+        Vs[6] = Vs[7][Vs[9]];
+        Vs[8] = variable_16;
+        Vs[9] = variable_15;
+        Vs[10] = Vs[9](Vs[11], Vs[12]);
+        Vs[7] = Vs[8][Vs[10]];
+        Vs[9] = variable_16;
+        Vs[10] = variable_15;
+        Vs[3] = rs[Vs[3]];
+        Vs[12] = "\xd2L\xa1\xdf\xb7I~?\x8e\xda\t\xdc\x83\x8cg\xceC\x1a";
+        Vs[11] = Vs[10](Vs[12], Vs[13]);
+        Vs[8] = Vs[9][Vs[11]];
+        Vs[10] = variable_16;
+        Vs[13] = "\xa9z\xb36\xcaB\xc3\xf1\x08";
+        Vs[11] = variable_15;
+        Vs[12] = Vs[11](Vs[13], Vs[14]);
+        Vs[9] = Vs[10][Vs[12]];
+        Vs[11] = variable_16;
+        Vs[14] = "\x11\xfa\x8c\xe5";
+        Vs[12] = variable_15;
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[4] = {
+            [Vs[5]] = Vs[6],
+            [Vs[7]] = Vs[8],
+            [Vs[9]] = Vs[10]
+        };
+        Vs[3] = Vs[3](rs, Vs[4]);
+        Vs[3] = "Divider";
+        Vs[3] = rs[Vs[3]];
+        Vs[3] = Vs[3](rs);
+        Vs[12] = 5780325141123;
+        Vs[10] = 7849469021767;
+        Vs[6] = variable_16;
+        Vs[7] = variable_15;
+        Vs[9] = "0j\x1f\n\xec";
+        Vs[11] = 2277377410084;
+        Vs[8] = Vs[7](Vs[9], Vs[10]);
+        Vs[5] = Vs[6][Vs[8]];
+        Vs[10] = "\xf4\x8a\xe5\x8e\x9b\xba\xadd\xe7\xda";
+        Vs[7] = variable_16;
+        Vs[8] = variable_15;
+        Vs[9] = Vs[8](Vs[10], Vs[11]);
+        Vs[6] = Vs[7][Vs[9]];
+        Vs[8] = variable_16;
+        Vs[9] = variable_15;
+        Vs[24] = "\xcb\xf3\x9c\x15\x04\xde\xef";
+        Vs[11] = "\xd1\xeaSg\xe9`\x1ft";
+        Vs[10] = Vs[9](Vs[11], Vs[12]);
+        Vs[11] = 15409061026823;
+        Vs[7] = Vs[8][Vs[10]];
+        Vs[13] = 33546059398405;
+        Vs[9] = "\x90\\KNg";
+        Vs[10] = 24226529389585;
+        Vs[3] = "Toggle";
+        Vs[8] = function(arg1_23, ...)
+            value_1 = arg1_23;
+            variable_62 = value_1;
+            r = value_1;
+            if value_1 then
+                N = variable_57;
+                i = N.FindFirstChild(N, "PlayerGui") or N.GetService(N, "CoreGui");
+                value_9 = value_1;
+            end;
+            value_9 = value_1;
+            variable_73.Parent = value_1 or nil;
+            return; 
+        end;
+        Vs[4] = {
+            [Vs[5]] = Vs[6],
+            [Vs[7]] = Vs[8]
+        };
+        Vs[3] = rs[Vs[3]];
+        Vs[3] = Vs[3](rs, Vs[4]);
+        Vs[6] = variable_16;
+        Vs[7] = variable_15;
+        Vs[8] = Vs[7](Vs[9], Vs[10]);
+        Vs[10] = "\x81\x98\xc0\xd8Q4\xb5\x16\xba7\xe6";
+        Vs[5] = Vs[6][Vs[8]];
+        Vs[7] = variable_16;
+        Vs[8] = variable_15;
+        Vs[9] = Vs[8](Vs[10], Vs[11]);
+        Vs[17] = 15400175295491;
+        Vs[12] = 13405517338722;
+        Vs[6] = Vs[7][Vs[9]];
+        Vs[8] = variable_16;
+        Vs[9] = variable_15;
+        Vs[11] = "\xfe'\x95\xfd";
+        Vs[14] = 1421159826069;
+        Vs[10] = Vs[9](Vs[11], Vs[12]);
+        Vs[12] = "w\x03\xd7\x82\xbf-I;\xd6N\x9c\xdf";
+        Vs[15] = "\xfb\xf0C$\x14!";
+        Vs[7] = Vs[8][Vs[10]];
+        Vs[9] = variable_16;
+        Vs[10] = variable_15;
+        Vs[11] = Vs[10](Vs[12], Vs[13]);
+        Vs[16] = 16038994959660;
+        Vs[13] = "\xdc\xc9\xf6";
+        Vs[8] = Vs[9][Vs[11]];
+        Vs[10] = variable_16;
+        Vs[11] = variable_15;
+        Vs[12] = Vs[11](Vs[13], Vs[14]);
+        Vs[9] = Vs[10][Vs[12]];
+        Vs[10] = true;
+        Vs[3] = "Section";
+        Vs[12] = variable_16;
+        Vs[3] = v[Vs[3]];
+        Vs[13] = variable_15;
+        Vs[14] = Vs[13](Vs[15], Vs[16]);
+        Vs[11] = Vs[12][Vs[14]];
+        Vs[12] = false;
+        Vs[16] = 30944182351945;
+        Vs[4] = {
+            [Vs[5]] = Vs[6],
+            [Vs[7]] = Vs[8],
+            [Vs[9]] = Vs[10],
+            [Vs[11]] = Vs[12]
+        };
+        Vs[3] = Vs[3](v, Vs[4]);
+        Vs[10] = "9\xe9\xff+l";
+        Vs[7] = variable_16;
+        Vs[22] = "\x80\x8d'";
+        Vs[12] = 13503061186703;
+        Vs[15] = 7919668465255;
+        Vs[13] = 23312151882343;
+        Vs[11] = 34053999869425;
+        Vs[8] = variable_15;
+        Vs[9] = Vs[8](Vs[10], Vs[11]);
+        Vs[6] = Vs[7][Vs[9]];
+        Vs[8] = variable_16;
+        Vs[9] = variable_15;
+        Vs[11] = "\x1b=\xdf\xaaS\xdc\xdfE\xe9\xd5\xfeT]d:<";
+        Vs[10] = Vs[9](Vs[11], Vs[12]);
+        Vs[7] = Vs[8][Vs[10]];
+        Vs[12] = "\xb7\xdcE\x02";
+        Vs[9] = variable_16;
+        Vs[10] = variable_15;
+        Vs[14] = 25455594778189;
+        Vs[11] = Vs[10](Vs[12], Vs[13]);
+        Vs[8] = Vs[9][Vs[11]];
+        Vs[10] = variable_16;
+        Vs[13] = "\xa28t\x10\x8f\xacL\xc6\xdc\xd4?P";
+        Vs[11] = variable_15;
+        Vs[12] = Vs[11](Vs[13], Vs[14]);
+        Vs[9] = Vs[10][Vs[12]];
+        Vs[11] = variable_16;
+        Vs[12] = variable_15;
+        Vs[4] = "Section";
+        Vs[4] = Vs[3][Vs[4]];
+        Vs[14] = "|Y\xe3\x14\xda?U\xd4\xc3";
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[15] = "w\x8c\xfcF";
+        Vs[12] = variable_16;
+        Vs[13] = variable_15;
+        Vs[14] = Vs[13](Vs[15], Vs[16]);
+        Vs[11] = Vs[12][Vs[14]];
+        Vs[5] = {
+            [Vs[6]] = Vs[7],
+            [Vs[8]] = Vs[9],
+            [Vs[10]] = Vs[11]
+        };
+        Vs[4] = Vs[4](Vs[3], Vs[5]);
+        Vs[4] = "Divider";
+        Vs[4] = Vs[3][Vs[4]];
+        Vs[4] = Vs[4](Vs[3]);
+        Vs[7] = variable_16;
+        Vs[4] = "Toggle";
+        Vs[8] = variable_15;
+        Vs[10] = "\xf3\xd16\xb48";
+        Vs[13] = 7708524170757;
+        Vs[16] = 8973291343954;
+        Vs[11] = 11925014599089;
+        Vs[9] = Vs[8](Vs[10], Vs[11]);
+        Vs[4] = Vs[3][Vs[4]];
+        Vs[6] = Vs[7][Vs[9]];
+        Vs[12] = 21045170775623;
+        Vs[8] = variable_16;
+        Vs[14] = 9043608866931;
+        Vs[9] = variable_15;
+        Vs[11] = "^(8l!c\n/\xa9<,-\xbd\xc9\xf0\xba\x18\x98\xae";
+        Vs[10] = Vs[9](Vs[11], Vs[12]);
+        Vs[12] = "\x1b\xda\x01\xde\xe0\xae\xf8X";
+        Vs[7] = Vs[8][Vs[10]];
+        Vs[9] = variable_16;
+        Vs[10] = variable_15;
+        Vs[11] = Vs[10](Vs[12], Vs[13]);
+        Vs[8] = Vs[9][Vs[11]];
+        Vs[9] = function(arg1_24, ...)
+            value_1 = arg1_24;
+            variable_63 = value_1;
+            r = value_1;
+            if value_1 then
+                N = variable_57;
+                i = N.FindFirstChild(N, "PlayerGui") or N.GetService(N, "CoreGui");
+                value_9 = value_1;
+            end;
+            value_9 = value_1;
+            E[Vs[1]].Parent = value_1 or nil;
+            return; 
+        end;
+        Vs[12] = 17461286166467;
+        Vs[5] = {
+            [Vs[6]] = Vs[7],
+            [Vs[8]] = Vs[9]
+        };
+        Vs[11] = 29480074212767;
+        Vs[4] = Vs[4](Vs[3], Vs[5]);
+        Vs[7] = variable_16;
+        Vs[8] = variable_15;
+        Vs[13] = 14945624922927;
+        Vs[10] = "h\xdc\x19\x90\xd1";
+        Vs[9] = Vs[8](Vs[10], Vs[11]);
+        Vs[6] = Vs[7][Vs[9]];
+        Vs[8] = variable_16;
+        Vs[11] = "\xd2#\xf3\xc1\xcd$\x94\xc3}:9\xfc\x0b\xfc\xe6wqU\xf7u\x00";
+        Vs[19] = 28732277650499;
+        Vs[9] = variable_15;
+        Vs[10] = Vs[9](Vs[11], Vs[12]);
+        Vs[4] = "Toggle";
+        Vs[7] = Vs[8][Vs[10]];
+        Vs[9] = variable_16;
+        Vs[12] = "\xbc\x1a2\x0fJ\xcd\xb6;";
+        Vs[4] = Vs[3][Vs[4]];
+        Vs[10] = variable_15;
+        Vs[11] = Vs[10](Vs[12], Vs[13]);
+        Vs[8] = Vs[9][Vs[11]];
+        Vs[9] = function(arg1_25, ...)
+            value_1 = arg1_25;
+            variable_64 = value_1;
+            r = value_1;
+            if value_1 then
+                N = variable_57;
+                value_9 = value_1;
+                i = N.FindFirstChild(N, "PlayerGui") or N.GetService(N, "CoreGui");
+            end;
+            value_9 = value_1;
+            E[Vs[2]].Parent = value_1 or nil;
+            return; 
+        end;
+        Vs[5] = {
+            [Vs[6]] = Vs[7],
+            [Vs[8]] = Vs[9]
+        };
+        Vs[4] = Vs[4](Vs[3], Vs[5]);
+        Vs[4] = "Divider";
+        Vs[11] = 3263283725807;
+        Vs[4] = v[Vs[4]];
+        Vs[13] = 28325397967750;
+        Vs[10] = "T\xd6\x8b\x81c";
+        Vs[4] = Vs[4](v);
+        Vs[7] = variable_16;
+        Vs[8] = variable_15;
+        Vs[9] = Vs[8](Vs[10], Vs[11]);
+        Vs[6] = Vs[7][Vs[9]];
+        Vs[11] = "\x0e-~\x00]\xab";
+        Vs[8] = variable_16;
+        Vs[9] = variable_15;
+        Vs[12] = 23157667539487;
+        Vs[10] = Vs[9](Vs[11], Vs[12]);
+        Vs[7] = Vs[8][Vs[10]];
+        Vs[9] = variable_16;
+        Vs[10] = variable_15;
+        Vs[12] = "\x8f__\xde";
+        Vs[11] = Vs[10](Vs[12], Vs[13]);
+        Vs[15] = 25616424988312;
+        Vs[8] = Vs[9][Vs[11]];
+        Vs[4] = "Tab";
+        Vs[13] = ";\xefz\x9e";
+        Vs[10] = variable_16;
+        Vs[11] = variable_15;
+        Vs[12] = Vs[11](Vs[13], Vs[14]);
+        Vs[4] = value_4[Vs[4]];
+        Vs[14] = "~\xc0\xde\x11\x1e\xe1^\x9d8";
+        Vs[9] = Vs[10][Vs[12]];
+        Vs[11] = variable_16;
+        Vs[12] = variable_15;
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[12] = variable_16;
+        Vs[13] = variable_15;
+        Vs[15] = "\xdd\x16\xe2\xb2y\xfc\x85\x00\x85";
+        Vs[14] = Vs[13](Vs[15], Vs[16]);
+        Vs[11] = Vs[12][Vs[14]];
+        Vs[16] = "l6\x88\xb7I!";
+        Vs[13] = variable_16;
+        Vs[14] = variable_15;
+        Vs[15] = Vs[14](Vs[16], Vs[17]);
+        Vs[12] = Vs[13][Vs[15]];
+        Vs[17] = "\xf5\xd6*&\xb8u";
+        Vs[14] = variable_16;
+        Vs[15] = variable_15;
+        Vs[16] = Vs[15](Vs[17], Vs[18]);
+        Vs[13] = Vs[14][Vs[16]];
+        Vs[14] = true;
+        Vs[5] = {
+            [Vs[6]] = Vs[7],
+            [Vs[8]] = Vs[9],
+            [Vs[10]] = Color3.fromHex("#10C550"),
+            [Vs[11]] = Vs[12],
+            [Vs[13]] = Vs[14]
+        };
+        Vs[11] = "\xb3\xc5\xdb\xccu";
+        Vs[4] = Vs[4](value_4, Vs[5]);
+        Vs[8] = variable_16;
+        Vs[13] = 28805692634213;
+        Vs[9] = variable_15;
+        Vs[12] = 24382352387161;
+        Vs[10] = Vs[9](Vs[11], Vs[12]);
+        Vs[7] = Vs[8][Vs[10]];
+        Vs[16] = 9660315505042;
+        Vs[14] = 13020269582255;
+        Vs[9] = variable_16;
+        Vs[12] = "\xba\xe21\xc1NB\xdf\x0f\xe5\x97";
+        Vs[10] = variable_15;
+        Vs[11] = Vs[10](Vs[12], Vs[13]);
+        Vs[8] = Vs[9][Vs[11]];
+        Vs[10] = variable_16;
+        Vs[11] = variable_15;
+        Vs[13] = "+\xb8F\xb0";
+        Vs[17] = "\x10\xbe\x0bvok";
+        Vs[12] = Vs[11](Vs[13], Vs[14]);
+        Vs[9] = Vs[10][Vs[12]];
+        Vs[11] = variable_16;
+        Vs[15] = 25803512213231;
+        Vs[18] = 11889897362848;
+        Vs[14] = "\xa6i\xa5\xe1\xac\xf1N=ba\"AXRH\xb4L\xac\x92\xa7";
+        Vs[12] = variable_15;
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[5] = "Section";
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[12] = variable_16;
+        Vs[15] = "Z\xfa,";
+        Vs[13] = variable_15;
+        Vs[14] = Vs[13](Vs[15], Vs[16]);
+        Vs[5] = Vs[4][Vs[5]];
+        Vs[11] = Vs[12][Vs[14]];
+        Vs[12] = true;
+        Vs[14] = variable_16;
+        Vs[15] = variable_15;
+        Vs[16] = Vs[15](Vs[17], Vs[18]);
+        Vs[13] = Vs[14][Vs[16]];
+        Vs[14] = true;
+        Vs[6] = {
+            [Vs[7]] = Vs[8],
+            [Vs[9]] = Vs[10],
+            [Vs[11]] = Vs[12],
+            [Vs[13]] = Vs[14]
+        };
+        Vs[7] = 69;
+        Vs[5] = Vs[5](Vs[4], Vs[6]);
+        Vs[6] = false;
+        Vs[15] = 4122201294719;
+        E[Vs[7]] = Vs[6];
+        Vs[18] = 12041869759975;
+        Vs[8] = 70;
+        Vs[6] = 1;
+        E[Vs[8]] = Vs[6];
+        Vs[14] = "^\xe1Mj\xd1";
+        Vs[11] = variable_16;
+        Vs[12] = variable_15;
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[16] = 32972467387386;
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[12] = variable_16;
+        Vs[17] = 2161120035822;
+        Vs[13] = variable_15;
+        Vs[15] = ";\xcc\x0f\xbc+\r0\xf3\xd5\xdf";
+        Vs[14] = Vs[13](Vs[15], Vs[16]);
+        Vs[11] = Vs[12][Vs[14]];
+        Vs[16] = "\xf4y\x81A";
+        Vs[13] = variable_16;
+        Vs[14] = variable_15;
+        Vs[15] = Vs[14](Vs[16], Vs[17]);
+        Vs[12] = Vs[13][Vs[15]];
+        Vs[14] = variable_16;
+        Vs[15] = variable_15;
+        Vs[17] = "\xc7\x89\xa6\x1fWd\xaa/MI\x1b\xb7\xa7^\x9e\xbc\xf6Q\x8a\xa0";
+        Vs[16] = Vs[15](Vs[17], Vs[18]);
+        Vs[13] = Vs[14][Vs[16]];
+        Vs[15] = variable_16;
+        Vs[16] = variable_15;
+        Vs[18] = "_\xaf\x90\x83z\x1c3\xb5h";
+        Vs[17] = Vs[16](Vs[18], Vs[19]);
+        Vs[19] = "\x07\x07\x07\xd9";
+        Vs[14] = Vs[15][Vs[17]];
+        Vs[16] = variable_16;
+        Vs[17] = variable_15;
+        Vs[6] = "Section";
+        Vs[18] = Vs[17](Vs[19], Vs[20]);
+        Vs[15] = Vs[16][Vs[18]];
+        Vs[9] = {
+            [Vs[10]] = Vs[11],
+            [Vs[12]] = Vs[13],
+            [Vs[14]] = Vs[15]
+        };
+        Vs[14] = "\xee\x1a\xcaU/";
+        Vs[6] = Vs[5][Vs[6]];
+        Vs[18] = 14274401114615;
+        Vs[6] = Vs[6](Vs[5], Vs[9]);
+        Vs[6] = "Divider";
+        Vs[15] = 33087040551983;
+        Vs[6] = Vs[5][Vs[6]];
+        Vs[19] = 16738989284978;
+        Vs[16] = 1256429716041;
+        Vs[6] = Vs[6](Vs[5]);
+        Vs[11] = variable_16;
+        Vs[12] = variable_15;
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[17] = 10905012212694;
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[12] = variable_16;
+        Vs[13] = variable_15;
+        Vs[15] = "T3[n\xe7\x89\n\xeav\xfa\xc0u";
+        Vs[14] = Vs[13](Vs[15], Vs[16]);
+        Vs[11] = Vs[12][Vs[14]];
+        Vs[16] = "\xa58\xf5\x90";
+        Vs[13] = variable_16;
+        Vs[14] = variable_15;
+        Vs[15] = Vs[14](Vs[16], Vs[17]);
+        Vs[17] = "5|\xcf\x9e\xe4\xea\xdeV*\x84\x08g\"Q\x1c~!n,\x07";
+        Vs[12] = Vs[13][Vs[15]];
+        Vs[14] = variable_16;
+        Vs[15] = variable_15;
+        Vs[16] = Vs[15](Vs[17], Vs[18]);
+        Vs[13] = Vs[14][Vs[16]];
+        Vs[15] = variable_16;
+        Vs[18] = "N\xc0Q\x1f\xbe";
+        Vs[16] = variable_15;
+        Vs[17] = Vs[16](Vs[18], Vs[19]);
+        Vs[14] = Vs[15][Vs[17]];
+        Vs[17] = variable_16;
+        Vs[15] = false;
+        Vs[18] = variable_15;
+        Vs[20] = "\xbb\xfb\x82\xc3\x1bR\xa3w";
+        Vs[19] = Vs[18](Vs[20], Vs[21]);
+        Vs[16] = Vs[17][Vs[19]];
+        Vs[6] = "Toggle";
+        Vs[6] = Vs[5][Vs[6]];
+        Vs[17] = function(arg1_26, ...)
+            E[Vs[7]] = arg1_26;
+            return; 
+        end;
+        Vs[9] = {
+            [Vs[10]] = Vs[11],
+            [Vs[12]] = Vs[13],
+            [Vs[14]] = Vs[15],
+            [Vs[16]] = Vs[17]
+        };
+        Vs[6] = Vs[6](Vs[5], Vs[9]);
+        Vs[11] = variable_16;
+        Vs[17] = 35161464815605;
+        Vs[12] = variable_15;
+        Vs[15] = 31735687281082;
+        Vs[14] = "\x7f\xed\x13\xabe";
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[16] = 31684614207906;
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[15] = "\xfc-4l-_[\x11\x90\x15_\xd2X\x00";
+        Vs[6] = "Section";
+        Vs[12] = variable_16;
+        Vs[13] = variable_15;
+        Vs[14] = Vs[13](Vs[15], Vs[16]);
+        Vs[16] = "\x8f\xe5B\xa1";
+        Vs[11] = Vs[12][Vs[14]];
+        Vs[13] = variable_16;
+        Vs[6] = Vs[5][Vs[6]];
+        Vs[14] = variable_15;
+        Vs[15] = Vs[14](Vs[16], Vs[17]);
+        Vs[18] = 11859513693586;
+        Vs[12] = Vs[13][Vs[15]];
+        Vs[14] = variable_16;
+        Vs[17] = "}\xcelD<Z\xd5\xde\xe7\xe7Q\x04A\x96\xa7\x1b\x96\xd9 \xa7\x92\x88\x98\xee\xcf\xe0\xb92/";
+        Vs[15] = variable_15;
+        Vs[16] = Vs[15](Vs[17], Vs[18]);
+        Vs[13] = Vs[14][Vs[16]];
+        Vs[20] = 3240376436196;
+        Vs[18] = "\x1e\x1fE\x16\xfa_\x1d\xeb\"";
+        Vs[15] = variable_16;
+        Vs[19] = 22548262660355;
+        Vs[16] = variable_15;
+        Vs[17] = Vs[16](Vs[18], Vs[19]);
+        Vs[14] = Vs[15][Vs[17]];
+        Vs[16] = variable_16;
+        Vs[17] = variable_15;
+        Vs[19] = "$b\xb9\xa5";
+        Vs[18] = Vs[17](Vs[19], Vs[20]);
+        Vs[15] = Vs[16][Vs[18]];
+        Vs[9] = {
+            [Vs[10]] = Vs[11],
+            [Vs[12]] = Vs[13],
+            [Vs[14]] = Vs[15]
+        };
+        Vs[20] = "\xcc\xc1+";
+        Vs[6] = Vs[6](Vs[5], Vs[9]);
+        Vs[15] = 35017181249458;
+        Vs[11] = variable_16;
+        Vs[14] = "\x84\xad\xd9\x99\xea";
+        Vs[16] = 15689288522889;
+        Vs[12] = variable_15;
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[15] = "[w\xd7\x18\xa1o\xfb\x16\xbf\xdb{%\x1el\xbb\x1f";
+        Vs[17] = 12283985303128;
+        Vs[18] = "\xa8'\xd7\xb4/";
+        Vs[21] = 24662579883228;
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[12] = variable_16;
+        Vs[13] = variable_15;
+        Vs[14] = Vs[13](Vs[15], Vs[16]);
+        Vs[11] = Vs[12][Vs[14]];
+        Vs[16] = "N\xe6\xee*";
+        Vs[13] = variable_16;
+        Vs[14] = variable_15;
+        Vs[15] = Vs[14](Vs[16], Vs[17]);
+        Vs[19] = 25449234132554;
+        Vs[12] = Vs[13][Vs[15]];
+        Vs[13] = .1;
+        Vs[15] = variable_16;
+        Vs[16] = variable_15;
+        Vs[17] = Vs[16](Vs[18], Vs[19]);
+        Vs[14] = Vs[15][Vs[17]];
+        Vs[17] = variable_16;
+        Vs[18] = variable_15;
+        Vs[19] = Vs[18](Vs[20], Vs[21]);
+        Vs[16] = Vs[17][Vs[19]];
+        Vs[17] = 0;
+        Vs[19] = variable_16;
+        Vs[20] = variable_15;
+        Vs[21] = Vs[20](Vs[22], Vs[23]);
+        Vs[18] = Vs[19][Vs[21]];
+        Vs[19] = 10;
+        Vs[21] = variable_16;
+        Vs[6] = "Slider";
+        Vs[22] = variable_15;
+        Vs[23] = Vs[22](Vs[24], Vs[25]);
+        Vs[20] = Vs[21][Vs[23]];
+        Vs[6] = Vs[5][Vs[6]];
+        Vs[21] = 1;
+        Vs[15] = {
+            [Vs[16]] = Vs[17],
+            [Vs[18]] = Vs[19],
+            [Vs[20]] = Vs[21]
+        };
+        Vs[20] = "\xc0# \t?\x05&\x19";
+        Vs[17] = variable_16;
+        Vs[18] = variable_15;
+        Vs[21] = 13860560165174;
+        Vs[19] = Vs[18](Vs[20], Vs[21]);
+        Vs[16] = Vs[17][Vs[19]];
+        Vs[17] = function(arg1_27, ...)
+            E[Vs[8]] = arg1_27;
+            return; 
+        end;
+        Vs[9] = {
+            [Vs[10]] = Vs[11],
+            [Vs[12]] = Vs[13],
+            [Vs[14]] = Vs[15],
+            [Vs[16]] = Vs[17]
+        };
+        Vs[6] = Vs[6](Vs[5], Vs[9]);
+        Vs[16] = 21305481144001;
+        Vs[10] = "game";
+        Vs[21] = 24161349151731;
+        Vs[9] = Env[Vs[10]];
+        Vs[17] = 1613086491375;
+        Vs[15] = "3\rb6\x7f\xceX\x9b\xb2\xcc";
+        Vs[10] = "GetService";
+        Vs[12] = variable_16;
+        Vs[13] = variable_15;
+        Vs[14] = Vs[13](Vs[15], Vs[16]);
+        Vs[11] = Vs[12][Vs[14]];
+        Vs[10] = Vs[9][Vs[10]];
+        Vs[10] = Vs[10](Vs[9], Vs[11]);
+        Vs[11] = variable_16;
+        Vs[14] = "q5\x0f\xc0\x0c\x0f\"o\xab";
+        Vs[15] = 17943713915043;
+        Vs[12] = variable_15;
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[15] = 27002220392733;
+        Vs[9] = Vs[11][Vs[13]];
+        Vs[6] = Vs[10][Vs[9]];
+        Vs[24] = "\x81\xfa>T\x1d#\x0f\xd0CF\xf3\xea\xc7F";
+        Vs[9] = "Connect";
+        Vs[9] = Vs[6][Vs[9]];
+        Vs[14] = "6\xb6\xb2\xd9\xf2";
+        Vs[10] = function(...)
+            value_1 = game.Players.LocalPlayer.Character;
+            if value_1 then
+                value_9 = game[variable_16[variable_15("9\x93\xb7\x9f\xdd\x05F", value_6)]][variable_16[variable_15("\x93\x046\xfc\xe4\xfa\xcb\xdc\xb1\x98\x10", value_2)]][V[r]];
+                value_3 = value_1.FindFirstChild(value_1, "HumanoidRootPart") and value_1.FindFirstChild(value_1, "Humanoid");
+            end;
+            if value_1 then
+                if E[Vs[7]] and value_1.Humanoid.MoveDirection.Magnitude > 0 then
+                    value_9.HumanoidRootPart.CFrame = value_9.HumanoidRootPart.CFrame + value_9.Humanoid.MoveDirection * E[Vs[8]];
+                end;
+            end;
+            return; 
+        end;
+        Vs[16] = 29372156081517;
+        Vs[9] = Vs[9](Vs[6], Vs[10]);
+        Vs[11] = variable_16;
+        Vs[19] = 6047297686271;
+        Vs[12] = variable_15;
+        Vs[13] = Vs[12](Vs[14], Vs[15]);
+        Vs[10] = Vs[11][Vs[13]];
+        Vs[15] = "X\xadS{nj\xe1Us\xa2\xb1%\x8d\xc4\xa7";
+        Vs[12] = variable_16;
+        Vs[13] = variable_15;
+        Vs[14] = Vs[13](Vs[15], Vs[16]);
+        Vs[18] = 26979313103123;
+        Vs[11] = Vs[12][Vs[14]];
+        Vs[13] = variable_16;
+        Vs[16] = "\xde+2\xb7";
+        Vs[25] = 28844131710071;
+        Vs[14] = variable_15;
+        Vs[15] = Vs[14](Vs[16], Vs[17]);
+        Vs[12] = Vs[13][Vs[15]];
+        Vs[14] = variable_16;
+        Vs[15] = variable_15;
+        Vs[17] = "a^0!\x12\xa8\xe1A\xda\xb9";
+        Vs[16] = Vs[15](Vs[17], Vs[18]);
+        Vs[18] = "\xd5\xbc\x97";
+        Vs[13] = Vs[14][Vs[16]];
+        Vs[15] = variable_16;
+        Vs[16] = variable_15;
+        Vs[17] = Vs[16](Vs[18], Vs[19]);
+        Vs[14] = Vs[15][Vs[17]];
+        Vs[20] = "U$\xc0\x18\xb6\x02";
+        Vs[6] = "Section";
+        Vs[17] = variable_16;
+        Vs[15] = true;
+        Vs[18] = variable_15;
+        Vs[19] = Vs[18](Vs[20], Vs[21]);
+        Vs[6] = Vs[4][Vs[6]];
+        Vs[16] = Vs[17][Vs[19]];
+        Vs[17] = false;
+        Vs[9] = {
+            [Vs[10]] = Vs[11],
+            [Vs[12]] = Vs[13],
+            [Vs[14]] = Vs[15],
+            [Vs[16]] = Vs[17]
+        };
+        Vs[15] = "m\x90D\xfe1\xb1\x9c";
+        Vs[6] = Vs[6](Vs[4], Vs[9]);
+        Vs[10] = "game";
+        Vs[9] = Env[Vs[10]];
+        Vs[12] = variable_16;
+        Vs[13] = variable_15;
+        Vs[16] = 30219689539320;
+        Vs[14] = Vs[13](Vs[15], Vs[16]);
+        Vs[10] = "GetService";
+        Vs[10] = Vs[9][Vs[10]];
+        Vs[11] = Vs[12][Vs[14]];
+        Vs[17] = 5880106830514;
+        Vs[10] = Vs[10](Vs[9], Vs[11]);
+        Vs[9] = 71;
+        E[Vs[9]] = Vs[10];
+        Vs[11] = "game";
+        Vs[10] = Env[Vs[11]];
+        Vs[13] = variable_16;
+        Vs[14] = variable_15;
+        Vs[16] = "\xadP\xd7\x90\xbf\x90\xf1\xaf\xe4\xfd";
+        Vs[11] = "GetService";
+        Vs[15] = Vs[14](Vs[16], Vs[17]);
+        Vs[11] = Vs[10][Vs[11]];
+        Vs[12] = Vs[13][Vs[15]];
+        Vs[11] = Vs[11](Vs[10], Vs[12]);
+        Vs[12] = 72;
+        Vs[10] = false;
+        Vs[14] = 73;
+        E[Vs[12]] = Vs[10];
+        Vs[10] = 20;
+        Vs[13] = 74;
+        Vs[15] = 75;
+        E[Vs[13]] = Vs[10];
+        Vs[16] = function(arg1_28, ...)
+            value_1 = arg1_28;
+            if not value_1 then
+                return;
+            end;
+            if E[Vs[15]][value_1] then
+                return;
+            end;
+            E[Vs[15]][value_1] = {
+                ["Size"] = value_1.Size,
+                ["Transparency"] = value_1.Transparency,
+                ["BrickColor"] = value_1.BrickColor,
+                ["Material"] = value_1.Material,
+                ["CanCollide"] = value_1.CanCollide
+            };
+            return; 
+        end;
+        Vs[10] = false;
+        E[Vs[14]] = Vs[10];
+        Vs[10] = {};
+        E[Vs[15]] = Vs[10];
+        Vs[10] = 76;
+        E[Vs[10]] = Vs[16];
+        Vs[16] = 77;
+        Vs[17] = function(arg1_29, ...)
+            variable_74 = arg1_29;
+            if not variable_74 then
+                return;
+            end;
+            variable_75 = E[Vs[15]][variable_74];
+            if not variable_75 then
+                return;
+            end;
+            pcall(function(...)
+                variable_74.Size = variable_75.Size;
+                variable_74.Transparency = variable_75.Transparency;
+                variable_74.BrickColor = variable_75.BrickColor;
+                variable_74.Material = variable_75.Material;
+                variable_74.CanCollide = variable_75.CanCollide;
+                return; 
+            end);
+            E[Vs[15]][variable_74] = nil;
+            return; 
+        end;
+        E[Vs[16]] = Vs[17];
+        Vs[18] = function(arg1_30, ...)
+            variable_76 = arg1_30;
+            if not variable_76 then
+                return;
+            end;
+            pcall(function(...)
+                E[Vs[10]](variable_76);
+                variable_76.Size = Vector3.new(E[Vs[13]], E[Vs[13]], E[Vs[13]]);
+                variable_76.Transparency = .7;
+                variable_76.BrickColor = BrickColor.new("Really blue");
+                variable_76.Material = Enum.Material.Neon;
+                variable_76.CanCollide = false;
+                return; 
+            end);
+            return; 
+        end;
+        Vs[17] = 78;
+        E[Vs[17]] = Vs[18];
+        Vs[19] = E[Vs[9]];
+        Vs[21] = variable_16;
+        Vs[22] = variable_15;
+        Vs[23] = Vs[22](Vs[24], Vs[25]);
+        Vs[20] = Vs[21][Vs[23]];
+        Vs[18] = Vs[19][Vs[20]];
+        Vs[20] = function(arg1_31, ...)
+            value_1 = arg1_31;
+            if value_1 then
+                value_3 = value_1.Character;
+            end;
+            if value_1 then
+                value_9 = value_1.Character;
+                V = value_9.FindFirstChild(value_9, "HumanoidRootPart");
+                if V then
+                    E[Vs[16]](V);
+                end;
+            end;
+            return; 
+        end;
+        Vs[19] = "Connect";
+        Vs[24] = 15664816217214;
+        Vs[19] = Vs[18][Vs[19]];
+        Vs[25] = 7093568064743;
+        Vs[19] = Vs[19](Vs[18], Vs[20]);
+        Vs[20] = variable_16;
+        Vs[21] = variable_15;
+        Vs[23] = "\x80\r+\xa3q\x0c\xfdzB\x17n>\xba";
+        Vs[22] = Vs[21](Vs[23], Vs[24]);
+        Vs[19] = Vs[20][Vs[22]];
+        Vs[20] = function(...)
+            if not E[Vs[12]] then
+                t = E[Vs[15]];
+                t = 80[1];
+                V = 80[3];
+                for V, i in t, pairs(t) do
+                    E[Vs[16]](V); 
+                end;
+                return;
+            end;
+            value_1 = E[Vs[9]].LocalPlayer;
+            if not value_1 then
+                return;
+            end;
+            V = value_1.Team;
+            value_4 = E[Vs[9]];
+            value_2 = {
+                value_4.GetPlayers(value_4)
+            };
+            r = value_4[2];
+            i = value_4[3];
+            for i, value_2 in ipairs(F(value_2)) do
+                value_4 = i;
+                if value_2 ~= value_1 then
+                    if not E[Vs[14]] or value_2.Team ~= value_1.Team then
+                        value_6 = value_2.Character;
+                        if value_6 then
+                            N = value_6.FindFirstChild(value_6, "HumanoidRootPart");
+                            if N then
+                                I = N.IsA(N, "BasePart");
+                            end;
+                            if N then
+                                E[Vs[17]](N);
+                            end;
+                        end;
+                    else
+                        value_9 = value_2.Character;
+                        if value_9 then
+                            value_9 = value_2.Character;
+                            value_6 = value_9.FindFirstChild(value_9, "HumanoidRootPart");
+                            if value_6 then
+                                E[Vs[16]](value_6);
+                            end;
+                        end;
+                    end;
+                end; 
+            end;
+            return; 
+        end;
+        Vs[18] = Vs[11][Vs[19]];
+        Vs[19] = "Connect";
+        Vs[19] = Vs[18][Vs[19]];
+        Vs[19] = Vs[19](Vs[18], Vs[20]);
+        Vs[24] = "\xf0\xdf\x00\x8d\xa3";
+        Vs[21] = variable_16;
+        Vs[22] = variable_15;
+        Vs[23] = Vs[22](Vs[24], Vs[25]);
+        Vs[20] = Vs[21][Vs[23]];
+        Vs[22] = variable_16;
+        Vs[23] = variable_15;
+        Vs[25] = "\x9d\xe5\x90B\xcf\xba\xcf\xe4\xa4(K";
+        Vs[24] = Vs[23](Vs[25], Vs[26]);
+        Vs[21] = Vs[22][Vs[24]];
+        Vs[23] = variable_16;
+        Vs[24] = variable_15;
+        Vs[26] = "\xe4\x02\x1c\xe5";
+        Vs[25] = Vs[24](Vs[26], Vs[27]);
+        Vs[27] = "\n\xf0O\xd7Cp\xa9\x8b\xc9\x11";
+        Vs[22] = Vs[23][Vs[25]];
+        Vs[24] = variable_16;
+        Vs[25] = variable_15;
+        Vs[26] = Vs[25](Vs[27], Vs[28]);
+        Vs[28] = "\xab\x1ac\xd85]\xe4&\xee";
+        Vs[23] = Vs[24][Vs[26]];
+        Vs[25] = variable_16;
+        Vs[26] = variable_15;
+        Vs[27] = Vs[26](Vs[28], Vs[29]);
+        Vs[24] = Vs[25][Vs[27]];
+        Vs[18] = "Section";
+        Vs[26] = variable_16;
+        Vs[29] = "\x86\xf2\xb8b";
+        Vs[27] = variable_15;
+        Vs[28] = Vs[27](Vs[29], Vs[30]);
+        Vs[25] = Vs[26][Vs[28]];
+        Vs[18] = Vs[6][Vs[18]];
+        Vs[19] = {
+            [Vs[20]] = Vs[21],
+            [Vs[22]] = Vs[23],
+            [Vs[24]] = Vs[25]
+        };
+        Vs[25] = 25837679554303;
+        Vs[18] = Vs[18](Vs[6], Vs[19]);
+        Vs[18] = "Divider";
+        Vs[24] = "\xb6\x13\xa5\x82\xef";
+        Vs[28] = 16917321178821;
+        Vs[18] = Vs[6][Vs[18]];
+        Vs[18] = Vs[18](Vs[6]);
+        Vs[21] = variable_16;
+        Vs[26] = 28187561128773;
+        Vs[22] = variable_15;
+        Vs[27] = 6055554845443;
+        Vs[23] = Vs[22](Vs[24], Vs[25]);
+        Vs[25] = "\x8cR8\x8d\xd7\x93\xd5\xffl\x92n\xc6K\xb0";
+        Vs[20] = Vs[21][Vs[23]];
+        Vs[22] = variable_16;
+        Vs[23] = variable_15;
+        Vs[24] = Vs[23](Vs[25], Vs[26]);
+        Vs[21] = Vs[22][Vs[24]];
+        Vs[30] = 22972282038729;
+        Vs[23] = variable_16;
+        Vs[18] = "Paragraph";
+        Vs[26] = "\x96\x9e\xee\xeb";
+        Vs[24] = variable_15;
+        Vs[25] = Vs[24](Vs[26], Vs[27]);
+        Vs[22] = Vs[23][Vs[25]];
+        Vs[24] = variable_16;
+        Vs[25] = variable_15;
+        Vs[29] = 27990762762986;
+        Vs[27] = "5\x8a\x9aJ\xee\x1aF\xb0\xd1\xd5\x17X\xa0\xd9\xcaB\x16\x86 ";
+        Vs[26] = Vs[25](Vs[27], Vs[28]);
+        Vs[28] = "\x8c\xf4\xd2\xfcf\x1b\xdd\x93\xb7";
+        Vs[23] = Vs[24][Vs[26]];
+        Vs[25] = variable_16;
+        Vs[26] = variable_15;
+        Vs[27] = Vs[26](Vs[28], Vs[29]);
+        Vs[24] = Vs[25][Vs[27]];
+        Vs[26] = variable_16;
+        Vs[27] = variable_15;
+        Vs[29] = "\xbe|'G";
+        Vs[28] = Vs[27](Vs[29], Vs[30]);
+        Vs[30] = "\xde\xf0\x14a";
+        Vs[25] = Vs[26][Vs[28]];
+        Vs[27] = variable_16;
+        Vs[18] = Vs[6][Vs[18]];
+        Vs[28] = variable_15;
+        Vs[29] = Vs[28](Vs[30], Vs[31]);
+        Vs[26] = Vs[27][Vs[29]];
+        Vs[28] = variable_16;
+        Vs[31] = "\xd4\xd0\xce\x1d\xfd\xfe4\xcf\xe9\xee\x0e\x18\xae\xf6\x08\xc6\xb7\xaf?.f\xec\xcf\x83\xba,\xa3\xbc\x95\xeb\x05\xf3\xec\x10\xe1L\xf4\xaeK3\x96(\xbem\x94\xf4\xea\x9e\x0b\x8e\xbdSx\x13_}\xd5\xa9E\xb2qW\x1fH\x90\x82\x19\xddo\x8f\x16Bw#\xb4\x12c-\xfeC\xfa]\xbb\xe3?\xbb\xe6\x8f\x1cc40\xde\xc0\x8d(\xe2\xee\xb2\xef\xb8KX7Zg\xaa\xe7b~n\xb6\xb1\xbf\x02\xcb \xfe#\\\xc9\xc0Nf\xc4\x8d8w\x83\xc1\xc1\xd0\xdc\xbe%=\xf7\xb14\xf3\xfa\x82\xfe\x1d\x05_\xbc\xa5U\xf1\xef\x99\xf1\xed\x0c#\xac\xf3n\x88\xf9\xd7?\xc5\xe5\x1c\xcc&\xf9d\x1f7\xe9\x06\x85G!\x85\xcf\xa2\xd2\xd6I[\xe7\xb1n\x94\xd1\r\x11\x18\x81hh\xe6\xdb\xcc1\t#\x91\x1a\"$\xc4\xf0\xe4\x003/\xcaQ\x95\x99\xec\xd7\xa3U\xbd\x06_\xed\x1c\xd7\xa5\xa2|)\xf5\x99\x93q>u\xfa6\xcd9u\x9e \x06\x0b\x8dY\x15\x08+\xc7W;'Y\x98$@f\x86\xdb*%\xfdH\xe5\xf7\xbeKS\x9fs{\xad\xd0\xc29\xb5\xe7\xf0\xe1\x0c\xfc\x96e\x8c\xa3\xd7\xadyF\xb31Zj\xe9\x05j\x8d).\xa2\x08\x88(S\xc2^\x1a\xbe\xa7\xf3\r\xc4\xe0Wa\xd3\x13\x87\x10:U\xcd\x03\x9b\xe4\xb7\x9a\xbd\x03\xf9\x92\xeae\xcfOX\xf0\xe9\x06h\xd5o\x92\x9f\xc8\xce%\x03yo\xe61F\x86\x15\x9b\xdb{k\xb5J\xa0\x0c\x9c\x9b\x06z\xd6\xa5eG\xfcB)\xc8\xa0$&\xb3\xa8\xc5\xd0F!\x01\xca\x825Ow\tr\x8c\xfd\x9a\xc2\x89u[\xa8\xe1\xfb~\xcd?\xf4\xcc*\xcf\xca\x08-\xf7~O\xe2ig\x8d\xee\x8e\xa4\xa3\xf1\xeb\xda\xc50\xd2j\xb64\x9a\xbe\xc3\xb2\xec\xb5%\xb6|l\xde\x99;\x99>\xb8";
+        Vs[29] = variable_15;
+        Vs[30] = Vs[29](Vs[31], Vs[32]);
+        Vs[27] = Vs[28][Vs[30]];
+        Vs[19] = {
+            [Vs[20]] = Vs[21],
+            [Vs[22]] = Vs[23],
+            [Vs[24]] = Vs[25],
+            [Vs[26]] = Vs[27]
+        };
+        Vs[18] = Vs[18](Vs[6], Vs[19]);
+        Vs[18] = "Divider";
+        Vs[30] = 175128313937;
+        Vs[28] = 4411694417926;
+        Vs[24] = "\x92\x81\xd0\xedL";
+        Vs[18] = Vs[6][Vs[18]];
+        Vs[18] = Vs[18](Vs[6]);
+        Vs[21] = variable_16;
+        Vs[22] = variable_15;
+        Vs[25] = 10751934813070;
+        Vs[23] = Vs[22](Vs[24], Vs[25]);
+        Vs[26] = 26464126578723;
+        Vs[20] = Vs[21][Vs[23]];
+        Vs[29] = 12800097326920;
+        Vs[25] = "\x16a\x86\xae+\x07";
+        Vs[22] = variable_16;
+        Vs[23] = variable_15;
+        Vs[24] = Vs[23](Vs[25], Vs[26]);
+        Vs[18] = "Toggle";
+        Vs[27] = 6222365494097;
+        Vs[18] = Vs[6][Vs[18]];
+        Vs[26] = "-\xb9F.";
+        Vs[21] = Vs[22][Vs[24]];
+        Vs[23] = variable_16;
+        Vs[24] = variable_15;
+        Vs[25] = Vs[24](Vs[26], Vs[27]);
+        Vs[22] = Vs[23][Vs[25]];
+        Vs[24] = variable_16;
+        Vs[27] = "\xcf\x81\x1c[\x8b\xe5;=\x98\x1e\n`\x05\x07p\xcf\x07\xae\xe2%\xce\x9b2\x96\x05\xe2\x9d\x10\x8cF";
+        Vs[25] = variable_15;
+        Vs[26] = Vs[25](Vs[27], Vs[28]);
+        Vs[23] = Vs[24][Vs[26]];
+        Vs[25] = variable_16;
+        Vs[26] = variable_15;
+        Vs[28] = "\xb12\xc9\xf2";
+        Vs[27] = Vs[26](Vs[28], Vs[29]);
+        Vs[24] = Vs[25][Vs[27]];
+        Vs[26] = variable_16;
+        Vs[29] = "/\x04\x15`4#G\x19T\xcd";
+        Vs[31] = 29400795002234;
+        Vs[27] = variable_15;
+        Vs[28] = Vs[27](Vs[29], Vs[30]);
+        Vs[32] = 28464913560519;
+        Vs[25] = Vs[26][Vs[28]];
+        Vs[27] = variable_16;
+        Vs[30] = "Pt\x1b\x14";
+        Vs[28] = variable_15;
+        Vs[29] = Vs[28](Vs[30], Vs[31]);
+        Vs[26] = Vs[27][Vs[29]];
+        Vs[28] = variable_16;
+        Vs[29] = variable_15;
+        Vs[31] = "\xb7\x93d\x99\xa3\x97j\xfd";
+        Vs[30] = Vs[29](Vs[31], Vs[32]);
+        Vs[27] = Vs[28][Vs[30]];
+        Vs[29] = variable_16;
+        Vs[30] = variable_15;
+        Vs[32] = "\xf09\xac\x92\x94";
+        Vs[31] = Vs[30](Vs[32], Vs[33]);
+        Vs[28] = Vs[29][Vs[31]];
+        Vs[29] = E[Vs[12]];
+        Vs[31] = variable_16;
+        Vs[32] = variable_15;
+        Vs[33] = Vs[32](Vs[34], Vs[35]);
+        Vs[30] = Vs[31][Vs[33]];
+        Vs[31] = function(arg1_32, ...)
+            E[Vs[12]] = arg1_32;
+            if not E[Vs[12]] then
+                V = value_4[1];
+                t = value_4[2];
+                for r, value_4 in pairs(E[Vs[15]]) do
+                    E[Vs[16]](r); 
+                end;
+            end;
+            print("Hitbox Enabled:", tostring(E[Vs[12]]));
+            return; 
+        end;
+        Vs[19] = {
+            [Vs[20]] = Vs[21],
+            [Vs[22]] = Vs[23],
+            [Vs[24]] = Vs[25],
+            [Vs[26]] = Vs[27],
+            [Vs[28]] = Vs[29],
+            [Vs[30]] = Vs[31]
+        };
+        Vs[24] = "\x8f\xbc\xa5(\x1f";
+        Vs[29] = 18521468363184;
+        Vs[25] = 8843408855062;
+        Vs[18] = Vs[18](Vs[6], Vs[19]);
+        Vs[21] = variable_16;
+        Vs[26] = 30159205431003;
+        Vs[32] = "\n\xf1\x84";
+        Vs[22] = variable_15;
+        Vs[23] = Vs[22](Vs[24], Vs[25]);
+        Vs[28] = 5461460158959;
+        Vs[18] = "Section";
+        Vs[20] = Vs[21][Vs[23]];
+        Vs[18] = Vs[6][Vs[18]];
+        Vs[22] = variable_16;
+        Vs[23] = variable_15;
+        Vs[25] = "W\xfe\x94x\x07\xf3\x04_d&\xd7\xbeee\xfe";
+        Vs[24] = Vs[23](Vs[25], Vs[26]);
+        Vs[27] = 17920602661016;
+        Vs[21] = Vs[22][Vs[24]];
+        Vs[26] = "\x96\xf2\xdc\x00";
+        Vs[23] = variable_16;
+        Vs[24] = variable_15;
+        Vs[25] = Vs[24](Vs[26], Vs[27]);
+        Vs[22] = Vs[23][Vs[25]];
+        Vs[27] = "\xa5\xf9ZHYSZ\xd0\x88Ga\xce\xd9\xddk\x07\x80\x10\xbe{\x02\xf7M)\x82Y\x0c\xffz";
+        Vs[24] = variable_16;
+        Vs[25] = variable_15;
+        Vs[26] = Vs[25](Vs[27], Vs[28]);
+        Vs[23] = Vs[24][Vs[26]];
+        Vs[30] = 4793077385399;
+        Vs[25] = variable_16;
+        Vs[28] = "~\x9d\xc01.O\x82+\xcf";
+        Vs[26] = variable_15;
+        Vs[34] = "\x98 \x1ed\xc8\x84m";
+        Vs[27] = Vs[26](Vs[28], Vs[29]);
+        Vs[24] = Vs[25][Vs[27]];
+        Vs[29] = "\x99P\x0e\xac";
+        Vs[26] = variable_16;
+        Vs[27] = variable_15;
+        Vs[33] = 16722570468971;
+        Vs[28] = Vs[27](Vs[29], Vs[30]);
+        Vs[25] = Vs[26][Vs[28]];
+        Vs[19] = {
+            [Vs[20]] = Vs[21],
+            [Vs[22]] = Vs[23],
+            [Vs[24]] = Vs[25]
+        };
+        Vs[29] = 17241538436956;
+        Vs[18] = Vs[18](Vs[6], Vs[19]);
+        Vs[21] = variable_16;
+        Vs[25] = 12555028223702;
+        Vs[22] = variable_15;
+        Vs[26] = 17355456798609;
+        Vs[24] = "\xf4g\xcf\xfc\x10";
+        Vs[30] = "q\xac\xc6";
+        Vs[23] = Vs[22](Vs[24], Vs[25]);
+        Vs[20] = Vs[21][Vs[23]];
+        Vs[28] = "G\xda\x05\xea?";
+        Vs[35] = 7894845886044;
+        Vs[22] = variable_16;
+        Vs[23] = variable_15;
+        Vs[25] = "X\xa7vp\xc5@&\xf6\xaa\x9f\x88";
+        Vs[27] = 33395958824127;
+        Vs[24] = Vs[23](Vs[25], Vs[26]);
+        Vs[26] = "\xf4\xf5{\x07";
+        Vs[21] = Vs[22][Vs[24]];
+        Vs[23] = variable_16;
+        Vs[24] = variable_15;
+        Vs[25] = Vs[24](Vs[26], Vs[27]);
+        Vs[22] = Vs[23][Vs[25]];
+        Vs[23] = 1;
+        Vs[25] = variable_16;
+        Vs[31] = 2373292491857;
+        Vs[26] = variable_15;
+        Vs[27] = Vs[26](Vs[28], Vs[29]);
+        Vs[24] = Vs[25][Vs[27]];
+        Vs[27] = variable_16;
+        Vs[28] = variable_15;
+        Vs[29] = Vs[28](Vs[30], Vs[31]);
+        Vs[26] = Vs[27][Vs[29]];
+        Vs[27] = 1;
+        Vs[29] = variable_16;
+        Vs[30] = variable_15;
+        Vs[31] = Vs[30](Vs[32], Vs[33]);
+        Vs[18] = "Slider";
+        Vs[28] = Vs[29][Vs[31]];
+        Vs[31] = variable_16;
+        Vs[29] = 120;
+        Vs[32] = variable_15;
+        Vs[33] = Vs[32](Vs[34], Vs[35]);
+        Vs[30] = Vs[31][Vs[33]];
+        Vs[31] = E[Vs[13]];
+        Vs[25] = {
+            [Vs[26]] = Vs[27],
+            [Vs[28]] = Vs[29],
+            [Vs[30]] = Vs[31]
+        };
+        Vs[30] = "\xe6O-~\xd1\x9c\x10D";
+        Vs[27] = variable_16;
+        Vs[28] = variable_15;
+        Vs[18] = Vs[6][Vs[18]];
+        Vs[31] = 30560853637015;
+        Vs[29] = Vs[28](Vs[30], Vs[31]);
+        Vs[26] = Vs[27][Vs[29]];
+        Vs[27] = function(arg1_33, ...)
+            E[Vs[13]] = arg1_33;
+            print("Hitbox size set to:", E[Vs[13]]);
+            return; 
+        end;
+        Vs[19] = {
+            [Vs[20]] = Vs[21],
+            [Vs[22]] = Vs[23],
+            [Vs[24]] = Vs[25],
+            [Vs[26]] = Vs[27]
+        };
+        Vs[25] = 24812167081250;
+        Vs[18] = Vs[18](Vs[6], Vs[19]);
+        Vs[24] = "`l\x0c4\x80\x02#\xaa\x80\xf9\xa7";
+        Vs[19] = E[Vs[9]];
+        Vs[21] = variable_16;
+        Vs[22] = variable_15;
+        Vs[23] = Vs[22](Vs[24], Vs[25]);
+        Vs[20] = Vs[21][Vs[23]];
+        Vs[18] = Vs[19][Vs[20]];
+        Vs[20] = function(arg1_34, ...)
+            value_9 = arg1_34.CharacterRemoving;
+            value_9.Connect(value_9, function(arg1_35, ...)
+                value_1 = arg1_35;
+                V = value_1 and value_1.FindFirstChild(value_1, "HumanoidRootPart");
+                if V then
+                    E[Vs[16]](V);
+                end;
+                return; 
+            end);
+            return; 
+        end;
+        Vs[19] = "Connect";
+        Vs[19] = Vs[18][Vs[19]];
+        Vs[19] = Vs[19](Vs[18], Vs[20]);
+        Vs[19] = "ipairs";
+        Vs[18] = Env[Vs[19]];
+        Vs[24] = "GetPlayers";
+        Vs[22] = E[Vs[9]];
+        Vs[24] = Vs[22][Vs[24]];
+        Vs[23] = {
+            Vs[24](Vs[22])
+        };
+        Vs[22] = {
+            Vs[18](F(Vs[23]))
+        };
+        Vs[20] = Vs[22][2];
+        Vs[19] = Vs[22][1];
+        Vs[21] = Vs[22][3];
+        Vs[21], Vs[22] = Vs[19](Vs[20], Vs[21]);
+        while Vs[21] do
+            Vs[18] = Vs[21];
+            Vs[25] = variable_16;
+            Vs[28] = "(Q\xc5\x12|%\xecH\x7f\x11\t\x96''7?b";
+            Vs[29] = 34422216375965;
+            Vs[26] = variable_15;
+            Vs[27] = Vs[26](Vs[28], Vs[29]);
+            Vs[24] = Vs[25][Vs[27]];
+            Vs[25] = function(arg1_36, ...)
+                value_1 = arg1_36;
+                V = value_1 and value_1.FindFirstChild(value_1, "HumanoidRootPart");
+                if V then
+                    E[Vs[16]](V);
+                end;
+                return; 
+            end;
+            Vs[23] = Vs[22][Vs[24]];
+            Vs[24] = "Connect";
+            Vs[24] = Vs[23][Vs[24]];
+            Vs[22] = nil;
+            Vs[18] = nil;
+            Vs[24] = Vs[24](Vs[23], Vs[25]); 
+        end;
+        Vs[1] = nil;
+        Vs[15] = nil;
+        Vs[13] = nil;
+        Vs[17] = nil;
+        Vs[9] = nil;
+        Vs[7] = nil;
+        Vs[6] = nil;
+        Vs[10] = nil;
+        Vs[14] = nil;
+        Vs[5] = nil;
+        Vs[12] = nil;
+        Vs[8] = nil;
+        Vs[3] = nil;
+        Vs[4] = nil;
+        Vs[16] = nil;
+        Vs[11] = nil;
+        Vs[2] = nil;
+        return;
+    end;
+end;
+return (function(...)
+    while true do
+        local_1 = local_2;
+        local_2 = local_1;
+        variable_3(); 
+    end;
+    return; 
+end)();
