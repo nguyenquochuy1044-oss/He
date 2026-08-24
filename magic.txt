@@ -1,5 +1,3 @@
-
-
 local Env = getfenv();
 local E = {};
 local value_1 = {...};
