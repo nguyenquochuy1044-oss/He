@@ -1,4 +1,4 @@
--- This file was deobfuscated & cleaned using SigmaBot | .gg/Zame2JAGDr
+
 
 local Env = getfenv();
 local E = {};
